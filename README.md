@@ -1,12 +1,12 @@
 <div align="center">
   <table>
     <tr>
-      <td width="36%" align="center" valign="middle">
+      <td width="38%" align="center" valign="middle">
         <img src="https://github.com/kevinreylapiz-max.png" width="220" alt="Kevin Rey Lapiz profile picture" />
       </td>
-      <td width="64%" align="left" valign="middle">
-        <h1>Kevin Rey Lapiz</h1>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=540&lines=Computer+Science+Student;Software+Engineer+in+Progress;AI+Developer;Building+smart+digital+solutions" alt="Typing introduction" />
+      <td width="62%" align="left" valign="middle">
+        <h1><b>Kevin Rey Lapiz</b></h1>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Progress;AI+Developer;Building+smart+digital+solutions" alt="Typing introduction" />
         <br /><br />
         <em>Software Engineer • AI Developer • Computer Science Student</em>
         <br /><br />
@@ -16,7 +16,6 @@
         <a href="mailto:your.email@example.com">
           <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
         </a>
-        <br />
         <a href="https://www.linkedin.com/in/your-linkedin/">
           <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
