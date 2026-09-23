@@ -13,13 +13,13 @@
         <a href="https://github.com/kevinreylapiz-max">
           <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
         </a>
-        <a href="mailto:your.email@example.com">
+        <a href="mailto:kevinreylapiz@gmail.com">
           <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
         </a>
         <a href="https://www.linkedin.com/in/your-linkedin/">
           <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-        <a href="https://yourportfolio.com">
+        <a href="https://kevinreylapiz.rf.gd">
           <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
         </a>
       </td>
@@ -137,9 +137,9 @@ Rather than listing every repository, my projects generally fall into a few conn
 I’m open to collaborations, internships, networking, and meaningful project opportunities in software engineering and AI.
 
 - GitHub: [@kevinreylapiz-max](https://github.com/kevinreylapiz-max)
-- Email: `your.email@example.com`
+- Email: `kevinreylapiz@gmail.com`
 - LinkedIn: `your-linkedin-url`
-- Portfolio: `https://yourportfolio.com`
+- Portfolio: `https://kevinreylapiz.rf.gd`
 
 > Building with curiosity. Improving with every iteration.
 
