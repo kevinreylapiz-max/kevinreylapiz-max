@@ -31,9 +31,9 @@
 
 ## About
 
-I’m a Computer Science student with a strong interest in software engineering, intelligent systems, and product-building. I enjoy learning by creating — turning ideas into working software, improving them through iteration, and exploring how AI can be applied to real human problems.
+I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I enjoy turning concepts into working systems, refining them through iteration, and exploring how intelligent solutions can improve the way people work and interact with technology.
 
-My goal is to grow into a modern software engineer who can design, build, and improve reliable digital products with both technical depth and practical value.
+My focus is on creating practical, scalable, and meaningful software — especially where engineering and artificial intelligence meet.
 
 ## Focus Areas
 
@@ -41,8 +41,8 @@ My goal is to grow into a modern software engineer who can design, build, and im
 - Artificial Intelligence
 - Machine Learning
 - Full-Stack Development
-- Problem Solving & System Design
 - Data Structures & Algorithms
+- System Design
 - Product Thinking
 - Automation & Smart Tools
 
@@ -91,23 +91,23 @@ My goal is to grow into a modern software engineer who can design, build, and im
 
 ## Project Direction
 
-I build projects that show how I think, design, and implement ideas — especially in software, AI, and user-centered tools.
+I build projects that show how I think, design, and implement solutions in software and AI.
 
 | Area | Description |
 | --- | --- |
-| **AI-Powered Applications** | Intelligent tools, workflow automation, and practical problem-solving projects |
-| **Full-Stack Projects** | APIs, interfaces, databases, and end-to-end product experiences |
-| **Computer Science Practice** | Algorithms, data structures, optimization, and system design fundamentals |
+| **AI-Powered Applications** | Practical intelligent tools, automation, and workflow enhancement |
+| **Full-Stack Projects** | Frontend experiences, backend systems, and data-driven product features |
+| **Computer Science Practice** | Algorithms, problem solving, and engineering fundamentals |
 
-> More projects will be added here as they reach a polished, presentable stage.
+> More project links will be added as they become polished and ready to showcase.
 
 ## How I Work
 
-1. Understand the problem and user need.
+1. Understand the problem and the user need.
 2. Break it into a clean technical design.
 3. Build a working version with maintainable code.
-4. Improve with testing, feedback, and iteration.
-5. Document and present the outcome clearly.
+4. Improve through testing, iteration, and feedback.
+5. Present the result clearly and confidently.
 
 ## Currently Learning
 
@@ -115,7 +115,7 @@ I build projects that show how I think, design, and implement ideas — especial
 - System Design & Software Architecture
 - Machine Learning Fundamentals
 - Full-Stack Product Development
-- Cloud & DevOps basics
+- Cloud & DevOps Basics
 
 ## GitHub Activity
 
