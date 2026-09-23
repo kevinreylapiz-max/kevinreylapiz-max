@@ -1,30 +1,31 @@
-# Kevin Rey Lapiz
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineer+in+Progress;AI+Developer;Building+smart+digital+solutions" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/kevinreylapiz-max.png" width="180" alt="Profile Picture" />
-</div>
-
-<p align="center">
-  <em>Software Engineer • AI Developer • Computer Science Student</em>
-</p>
-
-<div align="center">
-  <a href="https://github.com/kevinreylapiz-max" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-FF6B6B?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-00C2FF?logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+  <table>
+    <tr>
+      <td width="36%" align="center" valign="middle">
+        <img src="https://github.com/kevinreylapiz-max.png" width="220" alt="Kevin Rey Lapiz profile picture" />
+      </td>
+      <td width="64%" align="left" valign="middle">
+        <h1>Kevin Rey Lapiz</h1>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=540&lines=Computer+Science+Student;Software+Engineer+in+Progress;AI+Developer;Building+smart+digital+solutions" alt="Typing introduction" />
+        <br /><br />
+        <em>Software Engineer • AI Developer • Computer Science Student</em>
+        <br /><br />
+        <a href="https://github.com/kevinreylapiz-max">
+          <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="mailto:your.email@example.com">
+          <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <br />
+        <a href="https://www.linkedin.com/in/your-linkedin/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://yourportfolio.com">
+          <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -144,5 +145,5 @@ I’m open to collaborations, internships, networking, and meaningful project op
 > Building with curiosity. Improving with every iteration.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinreylapiz-max&label=Profile+Views&color=8B5CF6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kevinreylapiz-max&label=Profile+Views&color=00D9FF" alt="Profile Views" />
 </p>
