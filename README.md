@@ -6,7 +6,7 @@
       </td>
       <td width="62%" align="left" valign="middle">
         <h1><b>Kevin Rey Lapiz</b></h1>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Progress" alt="Typing introduction" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Pro[...]
         <br /><br />
         <em>Software Engineer • AI Developer • Computer Science Student</em>
         <br /><br />
@@ -31,9 +31,9 @@
 
 ## About
 
-I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real-world constraints, and continuously improving my approach.
+I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real-world constraints, and improving through iteration.
 
-My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI responsibly and effectively.
+My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI responsibly to support real user value.
 
 ## Focus Areas
 
@@ -105,11 +105,20 @@ Rather than listing every repository, my projects generally fall into a few conn
 
 ### AI Models & Assistants
 
-I regularly use and compare **DeepSeek, Qwen, Kimi, Claude, ChatGPT, and Gemini** for research, ideation, coding assistance, debugging, writing, analysis, and workflow experimentation. I’m also willing to learn, evaluate, and adapt to other AI models and tools when they are a good fit for the task.
+I regularly use and compare these models for research, ideation, coding assistance, debugging, writing, analysis, and workflow experimentation.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DeepSeek-DeepSeek-00A4EF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Qwen-Qwen-009BFF?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Kimi-Kimi-FF6B6B?style=for-the-badge&logo=ghost&logoColor=white" alt="Kimi" />
+  <img src="https://img.shields.io/badge/Claude-Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+</p>
 
 ### Design, Productivity & Business Tools
 
-I use **Canva and Canva AI** for visual design, presentations, content creation, and rapid prototyping. For documentation, organization, analysis, and other non-development work, I can also work with **Microsoft Word, Microsoft Excel, Google Docs, Google Sheets, and similar productivity tools**.
+I use **Canva and Canva AI** for visual design, presentations, content creation, and rapid prototyping. For documentation, organization, analysis, and other non-development work, I can also work with spreadsheets, productivity systems, business workflows, and planning tools to turn ideas into execution-ready outputs.
 
 > My toolkit is not limited to full-stack development—I’m comfortable combining software, AI, design, documentation, spreadsheets, and productivity workflows to solve problems from different angles.
 
