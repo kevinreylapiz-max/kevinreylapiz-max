@@ -6,7 +6,7 @@
       </td>
       <td width="62%" align="left" valign="middle">
         <h1><b>Kevin Rey Lapiz</b></h1>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Progress;AI+Developer;Building+smart+digital+solutions" alt="Typing introduction" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Progress" alt="Typing introduction" />
         <br /><br />
         <em>Software Engineer • AI Developer • Computer Science Student</em>
         <br /><br />
@@ -31,9 +31,9 @@
 
 ## About
 
-I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real requirements, and improving them through structured iteration.
+I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real-world constraints, and continuously improving my approach.
 
-My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI thoughtfully rather than treating AI as the entire product.
+My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI responsibly and effectively.
 
 ## Focus Areas
 
@@ -103,6 +103,16 @@ Rather than listing every repository, my projects generally fall into a few conn
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### AI Models & Assistants
+
+I regularly use and compare **DeepSeek, Qwen, Kimi, Claude, ChatGPT, and Gemini** for research, ideation, coding assistance, debugging, writing, analysis, and workflow experimentation. I’m also willing to learn, evaluate, and adapt to other AI models and tools when they are a good fit for the task.
+
+### Design, Productivity & Business Tools
+
+I use **Canva and Canva AI** for visual design, presentations, content creation, and rapid prototyping. For documentation, organization, analysis, and other non-development work, I can also work with **Microsoft Word, Microsoft Excel, Google Docs, Google Sheets, and similar productivity tools**.
+
+> My toolkit is not limited to full-stack development—I’m comfortable combining software, AI, design, documentation, spreadsheets, and productivity workflows to solve problems from different angles.
+
 ---
 
 ## How I Build
@@ -134,7 +144,7 @@ Rather than listing every repository, my projects generally fall into a few conn
 
 ## Contact
 
-I’m open to collaborations, internships, networking, and meaningful project opportunities in software engineering and AI.
+I’m open to collaborations, internships, networking, and meaningful project opportunities in software engineering, AI, design, productivity, and technology-enabled problem solving.
 
 - GitHub: [@kevinreylapiz-max](https://github.com/kevinreylapiz-max)
 - Email: `kevinreylapiz@gmail.com`
