@@ -6,7 +6,7 @@
       </td>
       <td width="62%" align="left" valign="middle">
         <h1><b>Kevin Rey Lapiz</b></h1>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&width=560&lines=Computer+Science+Student;Software+Engineer+in+Pro[...]
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Computer+Science+Student;AI+Developer;Full-Stack+Developer;Software+Engineer;Machine+Learning+Enthusiast" alt="Typing animation showing Kevin's roles" />
         <br /><br />
         <em>Software Engineer • AI Developer • Computer Science Student</em>
         <br /><br />
@@ -31,9 +31,9 @@
 
 ## About
 
-I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real-world constraints, and improving through iteration.
+I’m a Computer Science student building a strong foundation in software engineering, AI, and modern product development. I learn by turning ideas into working systems, testing them against real-world constraints, and continuously improving the result.
 
-My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI responsibly to support real user value.
+My work explores the space where **software engineering, artificial intelligence, automation, and human-centered design** meet. I’m especially interested in building reliable systems that use AI responsibly and effectively.
 
 ## Focus Areas
 
@@ -118,7 +118,7 @@ I regularly use and compare these models for research, ideation, coding assistan
 
 ### Design, Productivity & Business Tools
 
-I use **Canva and Canva AI** for visual design, presentations, content creation, and rapid prototyping. For documentation, organization, analysis, and other non-development work, I can also work with spreadsheets, productivity systems, business workflows, and planning tools to turn ideas into execution-ready outputs.
+I use **Canva and Canva AI** for visual design, presentations, content creation, and rapid prototyping. For documentation, organization, analysis, and other non-development work, I can also work with spreadsheets, productivity tools, and business workflows.
 
 > My toolkit is not limited to full-stack development—I’m comfortable combining software, AI, design, documentation, spreadsheets, and productivity workflows to solve problems from different angles.
 
