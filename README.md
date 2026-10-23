@@ -1,39 +1,30 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="38%" align="center" valign="middle">
-        <img src="https://github.com/kevinreylapiz-max.png" width="220" alt="Kevin Rey Lapiz profile picture" />
-      </td>
-      <td width="62%" align="left" valign="middle">
-        <h1><b>Kevin Rey Lapiz</b></h1>
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Software+Engineer;AI+Developer;Full-Stack+Developer;Computer+Science+Graduate" alt="Software Engineer, AI Developer, Full-Stack Developer, Computer Science Graduate" />
-        <br /><br />
-        <em>Software Engineer • AI Developer • Full-Stack Developer</em>
-        <br /><br />
-        <a href="https://github.com/kevinreylapiz-max">
-          <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="mailto:kevinreylapiz@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://www.linkedin.com/in/your-linkedin/">
-          <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://kevinreylapiz.rf.gd">
-          <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h1><b>Kevin Rey Lapiz</b></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Software+Engineer;AI+Developer;Full-Stack+Developer" alt="Kevin Rey Lapiz typing intro" />
+  <br /><br />
+  <em>Software Engineer • AI Developer • Full-Stack Developer</em>
+  <br /><br />
+  <a href="https://github.com/kevinreylapiz-max">
+    <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kevinreylapiz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kevinreylapiz.rf.gd">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
 
 ## About Me
 
-I’m a graduating Computer Science student and an aspiring software engineer focused on building practical, reliable, and user-centered software. I develop full-stack applications, AI-enabled tools, and automation workflows that turn real-world requirements into maintainable products.
+I’m a graduating Computer Science student and an aspiring software engineer focused on building practical, reliable, and user-centered software. I develop full-stack applications, AI-enabled tools, and robust digital experiences with attention to usability, maintainability, and impact.
 
-My experience spans software engineering, artificial intelligence, machine learning, backend development, and product-focused design. As I transition into the professional world, I’m actively seeking opportunities where I can contribute to engineering teams, continue growing through real-world experience, and help build technology that creates meaningful value.
+My experience spans software engineering, artificial intelligence, machine learning, backend development, and product-focused design. As I transition into the professional world, I’m actively building the skills and projects that reflect both technical depth and real-world value.
 
 ## Areas of Interest
 
@@ -108,7 +99,7 @@ My projects generally focus on the following areas:
 
 ### AI Tools and Assistants
 
-I use AI tools as development and research collaborators for ideation, planning, coding assistance, debugging, analysis, documentation, and workflow experimentation. I maintain human direction and verify generated outputs before using them in a project.
+I use AI tools as development and research collaborators for ideation, planning, coding assistance, debugging, analysis, documentation, and workflow experimentation. I maintain human direction and judgment throughout the process to ensure quality and accountability.
 
 <p align="left">
   <img src="https://img.shields.io/badge/DeepSeek-DeepSeek-00A4EF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
