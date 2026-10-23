@@ -6,7 +6,7 @@
   </p>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1000&center=true&vCenter=true&repeat=false&width=820&lines=Software+Engineer+%7C;AI+Developer+%7C;Full-Stack+Developer+%7C;Building+with+AI+%7C;Turning+ideas+into+real+products+%7C&color=00D9FF&background=00000000&cursor=true"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1000&center=true&vCenter=true&repeat=true&cursor=true&width=820&lines=Software+Engineer+%7C;AI+Developer+%7C;Full-Stack+Developer+%7C;Building+with+AI+%7C;Turning+ideas+into+real+products+%7C"
     alt="Typing animation for Kevin Rey Lapiz"
     width="820"
     height="42"
