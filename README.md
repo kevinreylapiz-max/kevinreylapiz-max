@@ -1,14 +1,14 @@
-<div align="left">
+<div align="center">
   <h1 style="margin: 0 0 14px 0; font-size: 2.9rem; font-weight: 800; letter-spacing: -0.06em; color: #E6EDF3; line-height: 1.1;">Kevin Rey Lapiz</h1>
 
-  <p style="margin: 0 0 16px 0; font-size: 1.08rem; font-weight: 700; letter-spacing: 0.08em; color: #7DD3FC; text-transform: uppercase;">
+  <p style="margin: 0 0 16px 0; font-size: 1.06rem; font-weight: 700; letter-spacing: 0.08em; color: #7DD3FC; text-transform: uppercase;">
     Software Engineer • AI Developer • Full-Stack Developer
   </p>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1000&color=00D9FF&vCenter=true&width=830&lines=Software+Engineer+%7C;AI+Developer+%7C;Full-Stack+Developer+%7C;Building+systems+with+AI+%7C;Turning+ideas+into+impact+%7C"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=1000&center=true&vCenter=true&repeat=false&width=820&lines=Software+Engineer+%7C;AI+Developer+%7C;Full-Stack+Developer+%7C;Building+with+AI+%7C;Turning+ideas+into+real+products+%7C&color=00D9FF&background=00000000&cursor=true"
     alt="Typing animation for Kevin Rey Lapiz"
-    width="830"
+    width="820"
     height="42"
   />
 
