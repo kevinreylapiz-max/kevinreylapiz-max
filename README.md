@@ -1,21 +1,30 @@
 <div align="center">
-  <h1><b>Kevin Rey Lapiz</b></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Software+Engineer;AI+Developer;Full-Stack+Developer" alt="Kevin Rey Lapiz typing intro" />
-  <br /><br />
-  <em>Software Engineer • AI Developer • Full-Stack Developer</em>
-  <br /><br />
-  <a href="https://github.com/kevinreylapiz-max">
-    <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:kevinreylapiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kevinreylapiz.rf.gd">
-    <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+  <h1 style="margin: 0; font-size: 2.6rem; font-weight: 800; letter-spacing: -0.04em; color: #E6EDF3;">Kevin Rey Lapiz</h1>
+  <p style="margin: 10px 0 16px; font-size: 1.05rem; font-weight: 600; letter-spacing: 0.06em; color: #7DD3FC; text-transform: uppercase;">
+    Software Engineer • AI Developer • Full-Stack Developer
+  </p>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&color=00D9FF&vCenter=true&width=760&lines=Software+Engineer;AI+Developer;Full-Stack+Developer"
+    alt="Professional title animation for Kevin Rey Lapiz"
+    width="760"
+    height="42"
+  />
+
+  <div align="center" style="margin-top: 18px;">
+    <a href="https://github.com/kevinreylapiz-max">
+      <img src="https://img.shields.io/badge/GitHub-@kevinreylapiz--max-181717?logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:kevinreylapiz@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-00D9FF?logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://kevinreylapiz.rf.gd">
+      <img src="https://img.shields.io/badge/Portfolio-Website-00D9FF?logo=firefox&logoColor=white" alt="Portfolio" />
+    </a>
+  </div>
 </div>
 
 ---
