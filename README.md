@@ -2,11 +2,11 @@
 
 # Kevin Rey Lapiz
 
-### Software Developer · Full-Stack & Android · Applied AI
+### Software Developer · Full-Stack & Android · AI Engineering
 
-**I build practical software and enjoy working across applications, AI, and computer systems.**
+**I build web and mobile applications, integrate applied AI, and bring hands-on experience with computer systems and networking.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=860&height=44&lines=Full-Stack+Web+Development;Android+Apps+with+Kotlin;On-Device+Computer+Vision;Human-Directed+AI+Workflows;Geographic+Mapping+%26+Data+Visualization;Networking+%26+Computer+Systems;Build.+Test.+Improve." alt="Full-stack web development; Android apps with Kotlin; on-device computer vision; human-directed AI workflows; geographic mapping and data visualization; networking and computer systems; build, test, improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=860&height=44&lines=Full-Stack+Software+Development;Android+Applications+with+Kotlin;On-Device+Computer+Vision;AI+Engineering+%26+Human-in-the-Loop+Workflows;Applied+Machine+Learning;CI%2FCD+%26+Automated+Testing;Networking+%26+Computer+Systems" alt="Full-stack software development; Android applications with Kotlin; on-device computer vision; AI engineering and human-in-the-loop workflows; applied machine learning; CI/CD and automated testing; networking and computer systems" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinreylapiz--max-181717?style=flat&logo=github)](https://github.com/kevinreylapiz-max)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinreylapiz@gmail.com)
@@ -16,11 +16,11 @@
 
 ---
 
-## About
+## Profile
 
-I’m a software developer with a Computer Science background and hands-on experience building web and Android projects. I work across frontend and backend features, explore applied AI, and bring practical networking and computer-systems foundations to my work.
+I’m a software developer with a Computer Science background and hands-on experience building web and Android applications. My work includes full-stack development, REST-style APIs, mobile computer vision, and human-directed AI workflows. I also bring a practical foundation in computer hardware and networking.
 
-I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and Data Solution**, an ISP in Tubigon, Bohol, Philippines. My academic and practical background includes computer hardware, networking fundamentals, UTP cabling, and fiber-optic cabling.
+I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and Data Solution**, an Internet service provider in Tubigon, Bohol, Philippines. My academic and practical background includes computer systems, networking fundamentals, UTP cabling, and fiber-optic cabling.
 
 ## Featured Projects
 
@@ -28,25 +28,25 @@ I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and 
   <tr>
     <td width="50%" valign="top">
       <h3>CacaoGuard — Android Crop-Health Mapping Prototype</h3>
-      <p>An Android project combining on-device cacao-pod image classification with a geographic map of recorded detections. Users can review mapped, location-tagged results, filter by class (healthy, black pod rot, and mirids damage), and inspect individual detections or clustered locations. Cluster markers visualize the class mix and expand to member details or zoom into the relevant area.</p>
-      <p>The detection pipeline uses a TensorFlow Lite model, camera/image input, and local detection history. The codebase also includes location and map support, plus Supabase-related services.</p>
+      <p>An Android application prototype that combines on-device cacao-pod image classification with a geographic map of location-tagged detections. Users can filter mapped results by class—healthy, black pod rot, and mirids damage—and inspect individual records or clusters. Cluster markers visualize the classes represented; tapping them can open member details or zoom to the relevant locations.</p>
+      <p>The detection pipeline uses TensorFlow Lite. The codebase also includes camera/image input, local detection history, GPS coordinates, and Supabase-related services.</p>
       <p><strong>Technologies:</strong> Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase</p>
       <p><a href="https://github.com/kevinreylapiz-max/CacaoGuard">CacaoGuard source (private) →</a></p>
-      <p><em>The repository is private, so this link does not provide public access. No public demo is currently available. The model is a project prototype, not a validated agricultural diagnosis tool.</em></p>
+      <p><em>The repository is private; the link does not grant access. No public demo is currently available. This is a project prototype, not a validated agricultural diagnostic tool.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>SpendLore — Personal Expense Journal</h3>
       <p>A deployed expense journal with charts, date-based reports, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow. The app includes database authorization controls and an opt-in encrypted offline mode.</p>
-      <p><strong>Technologies:</strong> React · TypeScript · Vite · Supabase · PostgreSQL · Playwright</p>
+      <p><strong>Technologies:</strong> React · TypeScript · Vite · Supabase · PostgreSQL · Playwright · GitHub Actions</p>
       <p><a href="https://spendlore.vercel.app">Try the live app →</a></p>
-      <p><em>The source repository is private; the deployed app is public.</em></p>
+      <p><em>The source repository is private; the live app is public.</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>SYNAPSE — Human-Directed AI Engineering</h3>
       <p>A local Python methodology and toolkit for structuring AI-assisted software work. It assembles role-specific instructions and runs deterministic repository checks, while a human manages model handoffs, verifies results, and makes final decisions.</p>
-      <p><strong>Topics:</strong> AI orchestration · Context engineering · Human-in-the-loop review · Deterministic validation · Python</p>
+      <p><strong>Topics:</strong> AI engineering · AI orchestration · Context engineering · Human-in-the-loop review · Deterministic validation · Python</p>
       <p><a href="https://github.com/kevinreylapiz-max/Synapse">SYNAPSE source (private) →</a></p>
       <p><em>The repository is private. SYNAPSE is human-directed, not autonomous; end-to-end multi-agent use on a real project has not been established.</em></p>
     </td>
@@ -84,18 +84,19 @@ I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### AI, Development, and Productivity Tools
+### AI, Testing, and Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
 </p>
 
-**Additional foundations:** HTTP APIs, JSON, Room, Vite, Playwright, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
+**Additional foundations:** REST-style HTTP APIs, JSON, Room, Vite, automated browser testing, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
 
 ## Experience
 
@@ -103,6 +104,12 @@ I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and 
 Tubigon, Bohol, Philippines · **320-hour OJT completed**
 
 Completed on-the-job training at an Internet service provider, building on my coursework and practical project experience in networking and computer systems.
+
+## Focus Areas
+
+My project work currently aligns most closely with **software engineering**, **full-stack development**, **Android application development**, **AI engineering**, **AI-assisted workflow orchestration**, **applied machine learning**, **on-device computer vision**, and **networking and computer systems**.
+
+I have implemented a TensorFlow Lite inference pipeline in an application; this portfolio does not claim model training, deep-learning research, or production MLOps experience. I’m interested in developing further in **machine learning engineering**, **deep learning**, **MLOps**, and **CI/CD** as I build and document more hands-on work.
 
 ## How I Work
 
