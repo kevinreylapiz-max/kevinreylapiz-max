@@ -81,15 +81,43 @@ The repository includes **demonstration-only** examples to show how engineering 
 
 Project-specific screenshots, recordings, test results, and implementation-verified diagrams should be treated as separate evidence and shared only when authentic, approved, and safe to publish.
 
-## Skills
+## Technologies & Tools
 
-**Languages:** Kotlin · TypeScript · JavaScript · Python · PHP  
-**Web and mobile:** React · Vite · Android · Jetpack Compose  
-**Backend and data:** Node.js · Express · Supabase · PostgreSQL · MySQL · SQLite · Room  
-**AI and verification:** TensorFlow Lite · Playwright · Smoke-test workflows · Human-directed multi-model workflows  
-**Tools and deployment:** Git · GitHub Actions · Vercel
+Icon badges give a quick visual overview; the groups below retain readable text labels for accessibility and clarity.
 
-Technologies reflect project, coursework, and training experience; depth varies by tool.
+**Languages**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Web & Android**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend, databases & cloud**  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI, testing & workflow**  
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Human-directed AI workflows](https://img.shields.io/badge/AI- human--directed-6E56CF?style=flat-square)
+
+**Tools & deployment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+These technologies reflect project, coursework, and training experience; depth varies by tool.
 
 ## Contact
 
