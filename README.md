@@ -2,11 +2,11 @@
 
 # Kevin Rey Lapiz
 
-### Software Engineering · Backend & Full-Stack Development · Applied AI
+### Software Developer · Full-Stack & Android · Applied AI
 
-**I build software, experiment with AI-assisted workflows, and bring hands-on experience with networking and computer systems.**
+**I build practical software and enjoy working across applications, AI, and computer systems.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=44&lines=Software+Development;Backend+%26+Full-Stack+Projects;Android+%26+Kotlin;Human-Directed+AI+Workflows;Applied+Machine+Learning;Networking+%26+Computer+Systems;Build.+Test.+Improve." alt="Software development; backend and full-stack projects; Android and Kotlin; human-directed AI workflows; applied machine learning; networking and computer systems; build, test, improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=860&height=44&lines=Full-Stack+Web+Development;Android+Apps+with+Kotlin;On-Device+Computer+Vision;Human-Directed+AI+Workflows;Geographic+Mapping+%26+Data+Visualization;Networking+%26+Computer+Systems;Build.+Test.+Improve." alt="Full-stack web development; Android apps with Kotlin; on-device computer vision; human-directed AI workflows; geographic mapping and data visualization; networking and computer systems; build, test, improve" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinreylapiz--max-181717?style=flat&logo=github)](https://github.com/kevinreylapiz-max)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinreylapiz@gmail.com)
@@ -18,36 +18,37 @@
 
 ## About
 
-I’m a software developer with a Computer Science background. I like building useful applications, figuring out how the parts fit together, and improving the result through testing and iteration.
+I’m a software developer with a Computer Science background and hands-on experience building web and Android projects. I work across frontend and backend features, explore applied AI, and bring practical networking and computer-systems foundations to my work.
 
-My projects include web apps, Android development, machine-learning prototypes, and human-directed AI workflows. I also have a foundation in computer hardware and networking, including UTP and fiber-optic cabling. I completed a **320-hour OJT at DJTAL Network and Data Solution**, an ISP in Tubigon, Bohol, Philippines.
+I completed a **320-hour On-the-Job Training placement** at **DJTAL Network and Data Solution**, an ISP in Tubigon, Bohol, Philippines. My academic and practical background includes computer hardware, networking fundamentals, UTP cabling, and fiber-optic cabling.
 
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>SpendLore — Personal Expense Journal</h3>
-      <p>A deployed expense journal with reports, charts, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow. The app also includes authorization controls and an opt-in encrypted offline mode.</p>
-      <p><strong>Technologies:</strong> React · TypeScript · Vite · Supabase · PostgreSQL · Playwright</p>
-      <p><a href="https://spendlore.vercel.app">Try the live app →</a></p>
-      <p>The source repository is private; the live app is public.</p>
+      <h3>CacaoGuard — Android Crop-Health Mapping Prototype</h3>
+      <p>An Android project combining on-device cacao-pod image classification with a geographic map of recorded detections. Users can review mapped, location-tagged results, filter by class (healthy, black pod rot, and mirids damage), and inspect individual detections or clustered locations. Cluster markers visualize the class mix and expand to member details or zoom into the relevant area.</p>
+      <p>The detection pipeline uses a TensorFlow Lite model, camera/image input, and local detection history. The codebase also includes location and map support, plus Supabase-related services.</p>
+      <p><strong>Technologies:</strong> Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase</p>
+      <p><a href="https://github.com/kevinreylapiz-max/CacaoGuard">CacaoGuard source (private) →</a></p>
+      <p><em>The repository is private, so this link does not provide public access. No public demo is currently available. The model is a project prototype, not a validated agricultural diagnosis tool.</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>CacaoGuard — Android Computer Vision Prototype</h3>
-      <p>An Android project exploring on-device cacao-pod image detection. It includes camera capture, TensorFlow Lite inference, detection history, local storage, and Supabase-related services.</p>
-      <p><strong>Technologies:</strong> Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · Supabase</p>
-      <p><a href="https://github.com/kevinreylapiz-max/CacaoGuard">Private repository →</a></p>
-      <p>The link does not grant access. There is no public demo at this time.</p>
+      <h3>SpendLore — Personal Expense Journal</h3>
+      <p>A deployed expense journal with charts, date-based reports, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow. The app includes database authorization controls and an opt-in encrypted offline mode.</p>
+      <p><strong>Technologies:</strong> React · TypeScript · Vite · Supabase · PostgreSQL · Playwright</p>
+      <p><a href="https://spendlore.vercel.app">Try the live app →</a></p>
+      <p><em>The source repository is private; the deployed app is public.</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>SYNAPSE — Human-Directed AI Engineering</h3>
-      <p>A local methodology and toolkit for organizing AI-assisted software work. Python tools assemble role-specific instructions and run deterministic repository checks; a person manages the handoffs and makes final decisions.</p>
+      <p>A local Python methodology and toolkit for structuring AI-assisted software work. It assembles role-specific instructions and runs deterministic repository checks, while a human manages model handoffs, verifies results, and makes final decisions.</p>
       <p><strong>Topics:</strong> AI orchestration · Context engineering · Human-in-the-loop review · Deterministic validation · Python</p>
-      <p><a href="https://github.com/kevinreylapiz-max/Synapse">Private repository →</a></p>
-      <p>The link does not grant access. SYNAPSE is not an autonomous agent platform, and full multi-agent use on a real project has not been established.</p>
+      <p><a href="https://github.com/kevinreylapiz-max/Synapse">SYNAPSE source (private) →</a></p>
+      <p><em>The repository is private. SYNAPSE is human-directed, not autonomous; end-to-end multi-agent use on a real project has not been established.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3>Visitor Tracker API</h3>
@@ -60,7 +61,7 @@ My projects include web apps, Android development, machine-learning prototypes, 
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -83,7 +84,7 @@ My projects include web apps, Android development, machine-learning prototypes, 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Tools and Computer Systems
+### AI, Development, and Productivity Tools
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
@@ -94,7 +95,7 @@ My projects include web apps, Android development, machine-learning prototypes, 
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
 </p>
 
-**Other foundations:** HTTP APIs, JSON, Room, Vite, Playwright, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
+**Additional foundations:** HTTP APIs, JSON, Room, Vite, Playwright, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
 
 ## Experience
 
@@ -105,17 +106,17 @@ Completed on-the-job training at an Internet service provider, building on my co
 
 ## How I Work
 
-- Get clear on the problem and what a good result should do.
-- Break the work into small changes that are easier to review.
-- Use AI to assist, but keep people responsible for decisions and approval.
-- Test what I build and check the evidence before calling it done.
-- Note trade-offs and what I would improve next.
+- Clarify the problem and define what a successful result looks like.
+- Break work into small changes that are easier to test and review.
+- Use AI to assist with development while keeping people responsible for decisions.
+- Test the implementation and review evidence before calling it done.
+- Document trade-offs and practical next steps.
 
-[More on my AI-assisted development workflow](AGENTIC_WORKFLOW.md).
+[Read more about my AI-assisted development workflow](AGENTIC_WORKFLOW.md).
 
 ## GitHub Activity
 
-See my [GitHub profile and public contribution activity](https://github.com/kevinreylapiz-max). I removed the third-party stats image because it was not loading reliably. GitHub activity only reflects public profile data; it does not expose private repository contents.
+[Visit my GitHub profile](https://github.com/kevinreylapiz-max) to see my public repositories and contribution activity. Activity shown on GitHub reflects public profile data; it does not reveal private repository contents.
 
 <div align="center">
 
