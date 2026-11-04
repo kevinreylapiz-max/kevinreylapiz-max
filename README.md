@@ -83,7 +83,7 @@ Project-specific screenshots, recordings, test results, and implementation-verif
 
 ## Technologies & Tools
 
-Icon badges give a quick visual overview; the groups below retain readable text labels for accessibility and clarity.
+Icon badges provide a quick visual summary. Text labels are included for readability.
 
 **Languages**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -92,7 +92,7 @@ Icon badges give a quick visual overview; the groups below retain readable text 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Web & Android**  
+**Android & Web**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -106,18 +106,26 @@ Icon badges give a quick visual overview; the groups below retain readable text 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**AI, testing & workflow**  
+**AI & machine learning**  
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Human-directed AI workflows](https://img.shields.io/badge/AI- human--directed-6E56CF?style=flat-square)
 
-**Tools & deployment**  
+**AI assistants I use**  
+![Claude](https://img.shields.io/badge/Claude-Use-6B4F3A?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Use-74AA9C?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Use-4D6BFE?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-Use-4285F4?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Use-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+
+Also familiar with **Kimi** and **Qwen**, which I use less often. I continue learning about other AI tools and models.
+
+**Testing, version control & deployment**  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-These technologies reflect project, coursework, and training experience; depth varies by tool.
+Technologies reflect project, coursework, and training experience; depth varies by tool. AI assistants are tools in a human-directed workflow, not substitutes for testing or review.
 
 ## Contact
 
