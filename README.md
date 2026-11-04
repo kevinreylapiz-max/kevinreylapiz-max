@@ -1,57 +1,76 @@
+<div align="center">
+
 # Kevin Rey Lapiz
 
-**Computer Science Student | Aspiring Software Engineer | Full-Stack and AI-Assisted Development**
+### Computer Science Student · Aspiring Software Engineer
 
-I am a Computer Science student preparing for an early-career software engineering role. I build practical software, document how it works, and use small, verifiable steps to improve it. My current public work includes a JavaScript and Express visitor analytics service and a documented, human-directed AI-assisted development workflow.
+**Building practical software, exploring applied AI, and learning to ship reliable products.**
 
-I am interested in software engineering, backend and full-stack development, applied AI, automation, and reliable software delivery. I am continuing to build experience in these areas and keep my project claims tied to what is actually implemented.
+<a href="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+and+full-stack+development;Human-directed+AI+workflows;Small+changes.+Real+verification.">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+and+full-stack+development;Human-directed+AI+workflows;Small+changes.+Real+verification." alt="Backend and full-stack development; human-directed AI workflows; small changes and real verification" />
+</a>
 
-- **Email:** [kevinreylapiz@gmail.com](mailto:kevinreylapiz@gmail.com)
-- **GitHub:** [github.com/kevinreylapiz-max](https://github.com/kevinreylapiz-max)
-- **Portfolio:** [kevinreylapiz.rf.gd](https://kevinreylapiz.rf.gd)
+[![GitHub](https://img.shields.io/badge/GitHub-kevinreylapiz--max-181717?style=flat&logo=github)](https://github.com/kevinreylapiz-max)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinreylapiz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=flat&logo=firefox&logoColor=white)](https://kevinreylapiz.rf.gd)
 
-## Selected Work
+</div>
 
-### Visitor Tracker Service
+---
 
-A small Node.js and Express service that records visitor counts, exposes JSON endpoints for statistics and health checks, and generates an SVG profile-views badge. The current implementation stores data in a local JSON file and uses an external IP geolocation service.
+## About Me
 
-**Demonstrated technologies:** JavaScript, Node.js, Express, REST-style HTTP endpoints, JSON file persistence, Axios.
+I’m a Computer Science student preparing for an early-career software engineering role. I enjoy turning ideas into useful software, understanding how systems behave, and improving implementations through clear requirements and verification. My public work currently includes a **Node.js and Express visitor-tracking service** and a documented **human-directed AI development workflow**.
 
-**Repository file:** [`visitor-tracker-server.js`](visitor-tracker-server.js)
+I’m especially interested in backend and full-stack engineering, applied AI, developer automation, and dependable software delivery. I’m building these skills through hands-on projects and continuous learning—not presenting areas of interest as professional experience.
 
-**Engineering follow-ups:** Add automated tests, document deployment and configuration, and strengthen privacy and access controls before using the service with real visitor data.
+## Featured Work
 
-### Human-Directed Agentic Development Workflow
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Visitor Tracker Service</h3>
+      <p>A Node.js and Express service that records visitor counts, returns statistics and health-check data, and serves an SVG views badge.</p>
+      <p><strong>Built with:</strong> JavaScript · Node.js · Express · Axios · JSON</p>
+      <p><a href="visitor-tracker-server.js">Explore the server code →</a></p>
+      <p><em>Next improvements: automated tests, deployment documentation, and stronger privacy and access controls before real-world use.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Human-Directed Agentic Workflow</h3>
+      <p>A practical framework for using AI agents as collaborators, with human direction, focused implementation steps, deterministic checks, review, and documented decisions.</p>
+      <p><strong>Topics:</strong> AI-assisted development · Agent roles · Verification gates · Human-in-the-loop review</p>
+      <p><a href="AGENTIC_WORKFLOW.md">Read the workflow →</a></p>
+    </td>
+  </tr>
+</table>
 
-A documented workflow for using AI agents as engineering collaborators while retaining human direction and review. It separates planning, implementation, deterministic verification, and approval, with a focus on small changes and traceable decisions.
+## Technical Snapshot
 
-**Topics explored:** AI-assisted software development, agent orchestration, context management, verification gates, human-in-the-loop review.
+**Demonstrated in public work:** JavaScript, Node.js, Express, HTTP APIs, JSON file persistence, Axios, Git, and technical documentation.
 
-**Workflow:** [`AGENTIC_WORKFLOW.md`](AGENTIC_WORKFLOW.md)
+**Currently developing:** Full-stack engineering, software testing, applied machine learning, AI orchestration, system design, cloud fundamentals, and CI/CD.
 
-## Technical Skills
+## How I Build
 
-**Demonstrated in this profile repository:** JavaScript, Node.js, Express, HTTP APIs, JSON, Axios, Git, and technical documentation.
+- **Understand first:** define the problem, constraints, and acceptance criteria.
+- **Work in small steps:** keep changes focused and reviewable.
+- **Use AI responsibly:** treat it as an assistant; keep human judgment and ownership.
+- **Verify with evidence:** use deterministic checks instead of trusting plausible output.
+- **Learn from the result:** document trade-offs, limitations, and next improvements.
 
-**Areas of continued learning:** Full-stack software development, applied machine learning, AI-assisted and agentic workflows, software testing, system design, cloud platforms, and CI/CD. These are development interests, not claims of professional mastery.
+[See my agentic development workflow](AGENTIC_WORKFLOW.md).
 
-## How I Work
+## GitHub Activity
 
-- Clarify the problem, constraints, and acceptance criteria before implementation.
-- Break work into focused, reviewable changes.
-- Use AI for assistance, not as a substitute for engineering judgment.
-- Verify behavior with reproducible tests and tools before treating a result as complete.
-- Document decisions, limitations, and follow-up work.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevinreylapiz-max&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics for Kevin Rey Lapiz" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinreylapiz-max&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages in Kevin Rey Lapiz's public repositories" />
+</div>
 
-## Current Focus
+<div align="center">
 
-I am strengthening my foundations in data structures and algorithms, backend and full-stack engineering, testing, applied AI and machine learning, and reliable software delivery. I am looking for opportunities to contribute, learn from experienced engineers, and grow into a dependable software engineer.
+**Open to:** Early-career software engineering opportunities · Collaboration · Constructive feedback
 
-## Contact
+[Email me](mailto:kevinreylapiz@gmail.com) · [Visit my portfolio](https://kevinreylapiz.rf.gd) · [Explore my repositories](https://github.com/kevinreylapiz-max?tab=repositories)
 
-I welcome early-career software engineering opportunities, project collaboration, and constructive feedback.
-
-- **Email:** [kevinreylapiz@gmail.com](mailto:kevinreylapiz@gmail.com)
-- **GitHub:** [@kevinreylapiz-max](https://github.com/kevinreylapiz-max)
-- **Portfolio:** [kevinreylapiz.rf.gd](https://kevinreylapiz.rf.gd)
+</div>
