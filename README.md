@@ -76,8 +76,6 @@ Project-specific screenshots, recordings, test results, and implementation-verif
 
 ## Technologies & Tools
 
-Icon badges provide a quick visual summary. Text labels are included for readability.
-
 **Languages**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -110,13 +108,13 @@ Icon badges provide a quick visual summary. Text labels are included for readabi
 ![OSMDroid](https://img.shields.io/badge/OSMDroid-5A7D4E?style=flat-square)
 
 **AI providers & tools**  
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-6B4F3A?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT%20%2F%20Codex-412991?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-Models-4D6BFE?style=flat-square)
-![Google](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Moonshot AI](https://img.shields.io/badge/Moonshot_AI-Kimi-555555?style=flat-square)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-Qwen-615CED?style=flat-square)
+![Anthropic — Claude](https://img.shields.io/badge/Anthropic-Claude-6B4F3A?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI — ChatGPT and Codex](https://img.shields.io/badge/OpenAI-ChatGPT%20%2F%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Models-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![Google — Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Moonshot AI — Kimi](https://img.shields.io/badge/Moonshot_AI-Kimi-555555?style=flat-square&logo=moonshot&logoColor=white)
+![Alibaba Cloud — Qwen](https://img.shields.io/badge/Alibaba_Cloud-Qwen-615CED?style=flat-square&logo=alibabacloud&logoColor=white)
 
 I orchestrate multiple AI assistants and models—including Claude, ChatGPT, Codex, DeepSeek, Gemini, GitHub Copilot, Kimi, and Qwen—as collaborators in a human-directed workflow. I choose tools to support the task, review their outputs, and remain responsible for verification and acceptance. I continue learning about other models and tools.
 
