@@ -109,16 +109,16 @@ Icon badges provide a quick visual summary. Text labels are included for readabi
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat-square)
 ![OSMDroid](https://img.shields.io/badge/OSMDroid-5A7D4E?style=flat-square)
 
-**AI assistants & model orchestration**  
-![Claude](https://img.shields.io/badge/Claude-Use-6B4F3A?style=flat-square)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Use-74AA9C?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-Use-4D6BFE?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-Use-4285F4?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Use-181717?style=flat-square&logo=githubcopilot&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-Use-555555?style=flat-square)
-![Qwen](https://img.shields.io/badge/Qwen-Use-615CED?style=flat-square)
+**AI providers & tools**  
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-6B4F3A?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT%20%2F%20Codex-412991?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Models-4D6BFE?style=flat-square)
+![Google](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Moonshot AI](https://img.shields.io/badge/Moonshot_AI-Kimi-555555?style=flat-square)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-Qwen-615CED?style=flat-square)
 
-I orchestrate multiple AI assistants as part of a human-directed workflow, selecting tools to support the task and reviewing outputs rather than relying on a single model. I’m continuing to learn about other models and tools.
+I orchestrate multiple AI assistants and models—including Claude, ChatGPT, Codex, DeepSeek, Gemini, GitHub Copilot, Kimi, and Qwen—as collaborators in a human-directed workflow. I choose tools to support the task, review their outputs, and remain responsible for verification and acceptance. I continue learning about other models and tools.
 
 **Testing, version control & CI/CD**  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
