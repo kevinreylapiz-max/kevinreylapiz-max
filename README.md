@@ -4,9 +4,9 @@
 
 ### Software Engineering · Backend & Full-Stack Development · Applied AI
 
-**I build practical software, explore human-directed AI engineering, and bring a hands-on foundation in networking and computer systems.**
+**I build software, experiment with AI-assisted workflows, and bring hands-on experience with networking and computer systems.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=44&lines=Software+Engineer;Backend+%26+Full-Stack+Development;Android+%26+Kotlin+Projects;Human-Directed+AI+Orchestration;Applied+Machine+Learning;Networking+%26+Computer+Systems;Build.+Verify.+Improve." alt="Software engineer; backend and full-stack development; Android and Kotlin projects; human-directed AI orchestration; applied machine learning; networking and computer systems; build, verify, improve" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=44&lines=Software+Development;Backend+%26+Full-Stack+Projects;Android+%26+Kotlin;Human-Directed+AI+Workflows;Applied+Machine+Learning;Networking+%26+Computer+Systems;Build.+Test.+Improve." alt="Software development; backend and full-stack projects; Android and Kotlin; human-directed AI workflows; applied machine learning; networking and computer systems; build, test, improve" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-kevinreylapiz--max-181717?style=flat&logo=github)](https://github.com/kevinreylapiz-max)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kevinreylapiz@gmail.com)
@@ -18,9 +18,9 @@
 
 ## About
 
-I’m building my career in software engineering with a Computer Science background and hands-on experience across software projects, networking, and computer systems. I enjoy turning ideas into useful applications, understanding how the pieces fit together, and improving work through structured implementation and verification.
+I’m a software developer with a Computer Science background. I like building useful applications, figuring out how the parts fit together, and improving the result through testing and iteration.
 
-My project work spans full-stack applications, Android development, machine-learning prototypes, and human-directed AI workflow design. Alongside software, I bring practical foundations in computer hardware and networking, including UTP and fiber-optic cabling, reinforced through coursework, practical projects, and a **completed 320-hour On-the-Job Training (OJT)** at **DJTAL Network and Data Solution**, an ISP in Tubigon, Bohol, Philippines.
+My projects include web apps, Android development, machine-learning prototypes, and human-directed AI workflows. I also have a foundation in computer hardware and networking, including UTP and fiber-optic cabling. I completed a **320-hour OJT at DJTAL Network and Data Solution**, an ISP in Tubigon, Bohol, Philippines.
 
 ## Featured Projects
 
@@ -28,32 +28,32 @@ My project work spans full-stack applications, Android development, machine-lear
   <tr>
     <td width="50%" valign="top">
       <h3>SpendLore — Personal Expense Journal</h3>
-      <p>A deployed expense-journaling web app with reporting, charts, searchable history, mandatory authenticator MFA, and an optional “bring your own AI” workflow. Includes privacy-focused authorization and an opt-in encrypted offline experience.</p>
+      <p>A deployed expense journal with reports, charts, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow. The app also includes authorization controls and an opt-in encrypted offline mode.</p>
       <p><strong>Technologies:</strong> React · TypeScript · Vite · Supabase · PostgreSQL · Playwright</p>
-      <p><a href="https://spendlore.vercel.app">Open the live app →</a></p>
-      <p>Source repository is private; the live app is public.</p>
+      <p><a href="https://spendlore.vercel.app">Try the live app →</a></p>
+      <p>The source repository is private; the live app is public.</p>
     </td>
     <td width="50%" valign="top">
       <h3>CacaoGuard — Android Computer Vision Prototype</h3>
-      <p>An Android application project exploring on-device cacao-pod image detection. The codebase includes camera capture, TensorFlow Lite inference, detection history, local persistence, and Supabase-related services.</p>
+      <p>An Android project exploring on-device cacao-pod image detection. It includes camera capture, TensorFlow Lite inference, detection history, local storage, and Supabase-related services.</p>
       <p><strong>Technologies:</strong> Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · Supabase</p>
-      <p><a href="https://github.com/kevinreylapiz-max/CacaoGuard">Private source repository →</a></p>
-      <p>Private repository link; it does not grant access. No public demo is currently available.</p>
+      <p><a href="https://github.com/kevinreylapiz-max/CacaoGuard">Private repository →</a></p>
+      <p>The link does not grant access. There is no public demo at this time.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>SYNAPSE — Human-Directed AI Engineering</h3>
-      <p>A local engineering methodology and verification toolkit for coordinating AI-assisted software work. Python tools assemble role-specific instructions and run deterministic repository checks; people carry out the AI handoffs and retain final approval.</p>
-      <p><strong>Topics:</strong> AI orchestration · Context engineering · Human-in-the-loop workflows · Deterministic validation · Python</p>
-      <p><a href="https://github.com/kevinreylapiz-max/Synapse">Private source repository →</a></p>
-      <p>Private repository link; it does not grant access. Not an autonomous agent platform, and end-to-end use as a multi-agent team on a real project has not been established.</p>
+      <p>A local methodology and toolkit for organizing AI-assisted software work. Python tools assemble role-specific instructions and run deterministic repository checks; a person manages the handoffs and makes final decisions.</p>
+      <p><strong>Topics:</strong> AI orchestration · Context engineering · Human-in-the-loop review · Deterministic validation · Python</p>
+      <p><a href="https://github.com/kevinreylapiz-max/Synapse">Private repository →</a></p>
+      <p>The link does not grant access. SYNAPSE is not an autonomous agent platform, and full multi-agent use on a real project has not been established.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Visitor Tracker API</h3>
-      <p>A Node.js and Express service that records visitor activity, serves statistics and health-check endpoints, and generates an SVG views badge.</p>
+      <p>A Node.js and Express service that records visitor activity, provides statistics and health-check endpoints, and generates an SVG views badge.</p>
       <p><strong>Technologies:</strong> JavaScript · Node.js · Express · Axios · JSON</p>
-      <p><a href="visitor-tracker-server.js">View implementation →</a></p>
+      <p><a href="visitor-tracker-server.js">View the implementation →</a></p>
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@ My project work spans full-stack applications, Android development, machine-lear
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### AI, Development, and Productivity Tools
+### Tools and Computer Systems
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
@@ -94,38 +94,36 @@ My project work spans full-stack applications, Android development, machine-lear
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
 </p>
 
-**Additional foundations:** HTTP APIs, JSON, Room, Vite, Playwright, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
+**Other foundations:** HTTP APIs, JSON, Room, Vite, Playwright, technical documentation, computer hardware, networking fundamentals, UTP copper cabling, fiber-optic cabling, and ISP operations exposure.
 
-## Professional Experience
+## Experience
 
 **On-the-Job Trainee — DJTAL Network and Data Solution**  
 Tubigon, Bohol, Philippines · **320-hour OJT completed**
 
-Completed on-the-job training at an Internet service provider, complementing academic coursework and practical project experience in networking and computer systems.
+Completed on-the-job training at an Internet service provider, building on my coursework and practical project experience in networking and computer systems.
 
-## Engineering Approach
+## How I Work
 
-- Translate requirements into clear constraints and acceptance criteria.
-- Build in focused, reviewable increments.
-- Use AI as a collaborator while retaining human ownership and review.
-- Verify behavior with deterministic checks and practical evidence.
-- Record trade-offs, limitations, and next steps.
+- Get clear on the problem and what a good result should do.
+- Break the work into small changes that are easier to review.
+- Use AI to assist, but keep people responsible for decisions and approval.
+- Test what I build and check the evidence before calling it done.
+- Note trade-offs and what I would improve next.
 
-[Read my agentic development workflow](AGENTIC_WORKFLOW.md).
+[More on my AI-assisted development workflow](AGENTIC_WORKFLOW.md).
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kevinreylapiz-max&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Public GitHub profile activity statistics for Kevin Rey Lapiz" />
-</div>
+See my [GitHub profile and public contribution activity](https://github.com/kevinreylapiz-max). I removed the third-party stats image because it was not loading reliably. GitHub activity only reflects public profile data; it does not expose private repository contents.
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=kevinreylapiz-max&label=Profile+views&color=38BDF8&style=flat)
 
-*Activity statistics and profile-view count are supplied by external badge services and reflect public profile data; they do not reveal or count private repository contents.*
+*Profile-view count is provided by an external badge service and may not be exact.*
 
-**Open to software engineering opportunities, collaboration, and constructive feedback.**
+**Open to software engineering opportunities and project collaboration.**
 
 [Email](mailto:kevinreylapiz@gmail.com) · [Portfolio](https://kevinreylapiz.rf.gd) · [Public repositories](https://github.com/kevinreylapiz-max?tab=repositories)
 
