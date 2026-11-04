@@ -12,13 +12,6 @@ I build and maintain software for Android and the web, with a focus on practical
 
 [Projects](#featured-projects) · [Documentation](#documentation) · [Evidence](#evidence)
 
-<br />
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-
 </div>
 
 ---
@@ -95,37 +88,45 @@ Icon badges provide a quick visual summary. Text labels are included for readabi
 **Android & Web**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend, databases & cloud**  
+**Backend, databases & hosting**  
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-2D6A4F?style=flat-square)
 
-**AI & machine learning**  
+**Computer vision & machine learning**  
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat-square)
+![OSMDroid](https://img.shields.io/badge/OSMDroid-5A7D4E?style=flat-square)
 
-**AI assistants I use**  
+**AI assistants & model orchestration**  
 ![Claude](https://img.shields.io/badge/Claude-Use-6B4F3A?style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Use-74AA9C?style=flat-square)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Use-4D6BFE?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-Use-4285F4?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Use-181717?style=flat-square&logo=githubcopilot&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-Use-555555?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-Use-615CED?style=flat-square)
 
-Also familiar with **Kimi** and **Qwen**, which I use less often. I continue learning about other AI tools and models.
+I orchestrate multiple AI assistants as part of a human-directed workflow, selecting tools to support the task and reviewing outputs rather than relying on a single model. I’m continuing to learn about other models and tools.
 
-**Testing, version control & deployment**  
+**Testing, version control & CI/CD**  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Technologies reflect project, coursework, and training experience; depth varies by tool. AI assistants are tools in a human-directed workflow, not substitutes for testing or review.
+These technologies reflect project, coursework, and training experience; depth varies by tool. AI-assisted work does not replace testing or human review.
 
 ## Contact
 
