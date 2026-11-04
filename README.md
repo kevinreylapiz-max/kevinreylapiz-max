@@ -2,13 +2,22 @@
 
 # Kevin Rey Lapiz
 
-**Software Developer · Android · Full-Stack Web · Human-Directed AI Engineering**
+### Software Developer · Android · Full-Stack Web
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+Android+and+web+applications;Human-directed+AI+engineering;Focused+on+clear%2C+verifiable+software" alt="Building Android and web applications · Human-directed AI engineering · Focused on clear, verifiable software" />
 
 I build and maintain software for Android and the web, with a focus on practical project work, clear documentation, and verification that keeps human judgment in the loop.
 
 [Portfolio](https://kevinreylapiz.rf.gd) · [Email](mailto:kevinreylapiz@gmail.com) · [GitHub](https://github.com/kevinreylapiz-max)
 
 [Projects](#featured-projects) · [Documentation](#documentation) · [Evidence](#evidence)
+
+<br />
+
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 
 </div>
 
