@@ -1,30 +1,28 @@
 # Example smoke-test report — demonstration only
 
-> **Example artifact:** This report demonstrates a safe reporting structure. It is not a real test run, contains no CacaoGuard or SpendLore test result, and must not be cited as evidence that any project passed a test.
+> **Demonstration artifact.** This sanitized file illustrates a report structure. It is not a real test run, contains no project test result, and must not be cited as evidence that an application passed testing.
 
-## Report metadata
+## Report details
 
-- **Report type:** Illustrative format example
+- **Report type:** Example format
 - **Project/build/commit:** Not applicable; no project build was tested
 - **Execution status:** Not run
 - **Environment:** Not applicable
 
-## Scope of this example
+## Example scope
 
-A real smoke test is a limited check of selected critical behavior after a build or deployment. This example does not define or claim an actual application's test coverage.
+A real smoke test checks selected critical behavior for a specific build or deployment. The checks below are generic examples, not tests of CacaoGuard, SpendLore, or another application.
 
-## Demonstration checklist
-
-| Check | Example purpose | Result |
+| Example check | Purpose | Result |
 |---|---|---|
-| Launch or availability | Confirm the target starts or responds in the stated test environment | Not run — demonstration document |
-| Primary path | Exercise one explicitly selected, critical user flow | Not run — demonstration document |
-| Error handling | Observe behavior for a deliberately selected invalid or unavailable condition | Not run — demonstration document |
+| Launch or availability | Confirm the identified target starts or responds in the stated environment | Not run — demonstration only |
+| Primary user path | Exercise one selected critical flow | Not run — demonstration only |
+| Error handling | Observe behavior under a specified invalid or unavailable condition | Not run — demonstration only |
 
 ## Outcome
 
-No tests were executed for this report. There is no pass/fail result, measured duration, coverage figure, or project-quality conclusion.
+No test was executed for this example. There is no pass/fail result, duration, coverage figure, or conclusion about project quality.
 
-## What a real report should identify
+## Information for an actual report
 
-A project-specific report should state the exact build or commit, environment, commands or manual steps, observed output, failures, and known limitations. Include only results that were actually observed and can be tied to the identified revision. Remove secrets and personal or sensitive data before sharing.
+A real report should identify the project revision or build, environment, commands or manual steps, observed output, failures, and limitations. Results should be recorded only if actually observed and tied to the identified revision. Remove secrets and personal or sensitive data before sharing.
