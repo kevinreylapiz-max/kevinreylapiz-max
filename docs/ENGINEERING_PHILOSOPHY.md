@@ -1,28 +1,30 @@
 # Engineering philosophy
 
-## Build for a real use case
+## Engineering principles
 
-Start with the problem, intended users, constraints, and acceptance criteria. Prefer a small working change that can be inspected over complexity without evidence of value.
+### Start with the problem
 
-## Make claims inspectable
+Clarify the intended outcome, constraints, and acceptance criteria before implementation. Keep the scope tied to a real use case and prefer changes that can be inspected and evaluated.
 
-Describe what was built, what is deployed, what remains private, and what has not been validated. Link claims to code, a working application, tests, diagrams, or approved artifacts where possible. Distinguish a prototype from a validated product.
+### Keep claims evidence-based
 
-## Use AI as a collaborator, not an authority
+Distinguish what was built, what is deployed, what remains private, and what has not been validated. Link claims to an implementation, working application, test, or approved artifact when available. Describe prototypes as prototypes; do not imply validation without evidence.
 
-AI can help explore options, organize context, and draft implementation. The engineer remains responsible for task direction, review, verification, and the final decision. Generated output is not proof that behavior is correct.
+### Use AI as a collaborator
 
-## Verify deterministically
+AI tools can assist with analysis, planning, and implementation. The engineer remains responsible for task direction, review, verification, and acceptance. Generated output is not proof of correctness.
 
-Use tests, linters, builds, and runtime checks appropriate to the change. Record what was run and the relevant environment or revision. Explain what the check covers and what it does not.
+### Verify with appropriate checks
 
-## Keep work reviewable
+Use tests, linters, builds, and runtime checks that fit the change. Record what was actually run and, where available, the relevant environment and revision. State the limits of each check rather than treating a passing check as proof of every behavior.
 
-Break work into focused steps, preserve useful context, and document important assumptions and trade-offs. Make it easy for another person to understand and challenge a decision.
+### Make work reviewable
 
-## Protect people and systems
+Break work into focused steps, preserve useful context, and document important assumptions and trade-offs. A reviewer should be able to understand the change and challenge its reasoning.
 
-Before publishing screenshots, logs, prompts, or diagrams, check for credentials, personal information, private endpoints, sensitive location data, and confidential project material. Share only what is approved.
+### Protect people and systems
+
+Before publishing screenshots, logs, prompts, or diagrams, check for credentials, personal information, private endpoints, sensitive location data, and confidential project material. Publish only material that is approved for sharing.
 
 ## Practical loop
 
@@ -31,6 +33,12 @@ Understand → Plan → Implement → Test → Inspect evidence → Review → D
                     ↑                 │
                     └──── Revise ─────┘
 ```
+
+This describes a working principle, not a claim that every task follows an identical process or that any one check guarantees quality.
+
+## Evidence boundary
+
+This document records engineering principles. It is not itself evidence that a specific project passed tests, achieved a performance target, or was independently audited. Project-specific outcomes belong with their corresponding implementation and verifiable artifacts.
 
 ## Related documentation
 

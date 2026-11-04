@@ -1,0 +1,12 @@
+%% Conceptual diagram from the components stated in the portfolio description.
+%% Not a verified source-level data-flow specification.
+flowchart LR
+    A[Camera or image input] --> B[Android application]
+    B --> C[On-device TensorFlow Lite inference]
+    C --> D[Location-tagged detections]
+    D --> E[Local detection history<br/>Room]
+    D --> F[Map views<br/>OSMDroid]
+    B -. backend services .-> G[Supabase]
+
+    classDef boundary stroke-dasharray: 5 5;
+    class G boundary;

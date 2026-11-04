@@ -1,27 +1,39 @@
-# On-the-Job Training — experience notes
+# On-the-Job Training — experience record
 
 ## Placement
 
-**On-the-Job Trainee — DJTAL Network and Data Solution**  
-Tubigon, Bohol, Philippines · **320 hours completed**
+**Role:** On-the-Job Trainee  
+**Organization:** DJTAL Network and Data Solution  
+**Location:** Tubigon, Bohol, Philippines  
+**Duration:** 320 hours completed  
+**Organization context:** Internet service provider
 
-## Summary
+## Confirmed experience
 
 Completed an on-the-job training placement at an Internet service provider, with practical exposure to networking and computer systems.
 
-This summary intentionally stays at the level of confirmed information. Add specific duties, tools, projects, and outcomes only after verifying them against training records and confirming that they may be shared.
+The profile information available for this document does not specify individual assignments, equipment, network technologies, customer-facing duties, or project outcomes. No such responsibilities are inferred here.
 
-## Evidence that could strengthen this section
+## Evidence status
 
-- A concise list of verified responsibilities, using action-and-outcome wording where records support it.
-- A sanitized training log or supervisor-approved summary of work performed.
-- Relevant diagrams or lab notes with network identifiers, customer information, credentials, and internal topology removed.
-- Supervisor or organization reference, if permission is granted.
-- Completion certificate or other approved confirmation, with personal identifiers redacted where appropriate.
+### Established facts
 
-Do not publish customer data, internal network details, credentials, or materials belonging to the organization without authorization.
+- OJT placement at DJTAL Network and Data Solution.
+- Location in Tubigon, Bohol, Philippines.
+- 320 hours completed.
+- Practical exposure to networking and computer systems in an ISP context.
 
-## Related links
+### Not represented as evidence in this document
+
+No training log, completion certificate, supervisor reference, detailed task list, or technical deliverable is included or claimed here.
+
+Any such material should only be described or shared after it has been verified and permission to publish has been confirmed. Redact personal information, customer records, credentials, network identifiers, and internal topology from any approved public artifact.
+
+## Resume summary
+
+Completed 320 hours of on-the-job training at an Internet service provider, gaining practical exposure to networking and computer systems.
+
+## Related documentation
 
 - [Resume](RESUME.md)
 - [Portfolio](../README.md)

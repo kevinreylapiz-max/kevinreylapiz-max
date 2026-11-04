@@ -1,43 +1,56 @@
 # CacaoGuard — project overview
 
-## At a glance
+## Project summary
 
-CacaoGuard is an Android thesis application prototype exploring cacao-pod image classification alongside location-based detection records. The project was completed and defended as a thesis, with development and maintenance continuing afterward.
+CacaoGuard is an Android thesis application prototype exploring cacao-pod image classification and location-based detection records. The project was completed and defended as a thesis, and development and maintenance continued after the defense.
 
-**Status and access:** The source repository is private and there is no public demo currently available. This document describes the stated project scope; it is not an independent evaluation of model performance or agricultural outcomes.
+**Access:** The source repository is private. A public demo is not currently available.
 
-## Problem and intended use
+## Verified project facts
 
-The project explores how image input, on-device classification, and geotagged records can be combined in a mobile application. It should be presented as a prototype and academic engineering project—not as a validated tool for diagnosing cacao disease or making agricultural decisions.
+The profile and project description establish the following:
+
+- The application was developed for Android.
+- It combines camera or image input with on-device TensorFlow Lite inference.
+- It includes location-tagged detections, map views, local detection history, and backend services.
+- The project uses Kotlin, Jetpack Compose, TensorFlow Lite, CameraX, Room, OSMDroid, and Supabase.
+- The thesis was completed and defended, followed by continued development and maintenance.
 
 ## System outline
 
-The existing project description identifies these components:
+The diagram in [`assets/diagrams/cacaoguard-architecture.mmd`](../assets/diagrams/cacaoguard-architecture.mmd) is a conceptual view based on the components listed above. It is not a verified source-level architecture specification. The exact data flow, synchronization behavior, model inputs and outputs, and division of responsibilities between local storage and backend services are not established in the available public description.
 
-1. Camera or image input through the Android application.
-2. On-device inference using TensorFlow Lite.
-3. Location-tagged detection records and map views.
-4. Local detection history using Room.
-5. Backend services using Supabase.
+## Scope and limitations
 
-Confirm exact data flows, model input/output, synchronization behavior, permissions, and backend responsibilities against the implementation before publishing a detailed architecture diagram.
+CacaoGuard should be described as a project prototype, not a validated agricultural diagnostic tool. No model accuracy, field-validation result, dataset details, or agricultural outcome is asserted here. No performance or reliability claims are made without published supporting evidence.
 
 ## Technology
 
 Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase
 
-## Evidence to publish
+## Evidence status
 
-- A short, captioned screen recording or a small set of screenshots showing the actual application flows.
-- A system diagram that distinguishes on-device processing, local persistence, map/location features, and remote services.
-- A sanitized sample record or test fixture, if it can be shared without exposing personal or sensitive location data.
-- A model card or evaluation summary stating dataset provenance, evaluation setup, limitations, and measured results—only if those details are documented and approved for publication.
-- A test summary tied to a specific build or commit, including what was tested and what remains unverified.
+### Established evidence
 
-Before sharing, remove credentials, personal information, private endpoints, sensitive coordinates, and non-public thesis material. Do not imply model accuracy or field validation without reproducible evidence.
+- Thesis application completed and defended.
+- Android application scope and technology list as stated in the profile.
+- Continued development and maintenance after defense.
+
+### Additional artifacts that would require real project evidence
+
+The following are not included or claimed as completed in this document:
+
+- Application screenshots or a screen recording from an actual build.
+- A source-verified architecture diagram and data-flow description.
+- A model card, dataset provenance, evaluation protocol, and measured model results.
+- A test report tied to a specific build or commit.
+- A sanitized sample record or demonstration of synchronization behavior.
+
+Any future public artifact should be checked for credentials, personal information, sensitive location data, private endpoints, and non-public thesis material. Model or field-performance claims should only be published with reproducible supporting evidence.
 
 ## Links
 
-- [Private source repository](https://github.com/kevinreylapiz-max/CacaoGuard)
 - [Portfolio](../README.md)
 - [Resume](RESUME.md)
+- [Conceptual architecture diagram](../assets/diagrams/cacaoguard-architecture.mmd)
+- [Private source repository](https://github.com/kevinreylapiz-max/CacaoGuard)

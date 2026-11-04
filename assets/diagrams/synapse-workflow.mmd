@@ -1,0 +1,13 @@
+%% Conceptual workflow based on the public AI-assisted engineering workflow notes.
+%% Human direction and acceptance remain explicit; AI output is not verification.
+flowchart TD
+    A[Human defines problem, constraints, and acceptance criteria]
+    --> B[Plan approach and identify relevant context]
+    B --> C[Provide focused context to AI collaborator]
+    C --> D[Implement in small, reviewable steps]
+    D --> E[Run deterministic tests and checks]
+    E --> F{Does the evidence support the result?}
+    F -- No --> G[Diagnose, revise, and retest]
+    G --> D
+    F -- Yes --> H[Human review and acceptance decision]
+    H --> I[Document decisions, trade-offs, and follow-up work]

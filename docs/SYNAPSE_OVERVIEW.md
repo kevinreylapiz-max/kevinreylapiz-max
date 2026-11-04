@@ -1,49 +1,64 @@
 # SYNAPSE — project overview
 
-## At a glance
+## Project summary
 
-SYNAPSE is a local Python methodology and toolkit for structuring AI-assisted software engineering work. Its stated value is operational: it was used during CacaoGuard development, debugging, testing, thesis preparation and defense, and post-defense maintenance.
+SYNAPSE is a local Python methodology and toolkit for structuring AI-assisted software engineering work. It was used operationally during CacaoGuard development, debugging, testing, thesis preparation and defense, and post-defense maintenance.
 
-The source repository is private. This overview explains the workflow as described in the portfolio; it does not claim that the toolkit is autonomous or that its recorded checkpoints independently establish software quality.
+The source repository is private. This overview documents the workflow as described in the profile; it does not claim that the toolkit is autonomous or that its recorded checkpoints independently demonstrate software quality.
 
-## Workflow capabilities
+## Verified project facts
 
-- Context continuity across multiple AI-assisted work sessions.
-- Checkpoints, project handoffs, and growth journals. The current project description reports 100+ recorded checkpoints.
-- Smoke-test workflows and a CR-based workflow.
-- Human-directed orchestration across multiple AI models.
+The profile and workflow description establish that SYNAPSE:
 
-## Responsibility boundary
+- Is a local Python methodology and toolkit.
+- Supports context continuity, checkpoints, project handoffs, growth journals, smoke-test workflows, and a CR-based workflow.
+- Has been used in work on CacaoGuard across development and post-defense maintenance activities.
+- Has a profile-reported count of 100+ recorded checkpoints.
+- Supports human-directed orchestration across multiple AI models.
 
-The engineer defines goals and acceptance criteria, supplies relevant context, directs work, inspects generated changes, runs deterministic checks, and decides what is accepted. Models can assist with analysis and implementation; their output is not treated as verification by itself.
+The checkpoint figure describes a recorded count only. It is not presented as a productivity, quality, accuracy, or impact metric.
 
-## Example process
+## Workflow and responsibility boundary
 
-```text
-Define problem and acceptance criteria
-  → provide focused context
-  → implement in small, reviewable steps
-  → run tests and checks
-  → inspect evidence
-  → human review and decision
-  → document decisions and follow-up work
-```
+The human engineer defines goals and acceptance criteria, provides relevant context, directs implementation, runs deterministic checks, reviews results, and decides what is accepted. AI tools may assist with analysis and implementation; their output is not itself verification.
 
-This process is also documented in [AGENTIC_WORKFLOW.md](../AGENTIC_WORKFLOW.md).
+The conceptual sequence is:
 
-## Evidence to publish
+1. Define the problem and constraints.
+2. Plan the approach and acceptance criteria.
+3. Provide focused context.
+4. Implement in small, reviewable steps.
+5. Run appropriate tests and checks.
+6. Inspect evidence and revise when needed.
+7. Complete human review and document decisions.
 
-- A sanitized example of a checkpoint and a handoff, with private project context removed.
-- A workflow diagram showing the boundary between human decisions, model assistance, and deterministic checks.
-- A representative smoke-test report, paired with the test code or command, environment, commit/build identifier, and limitations.
-- A small reproducible demonstration of a workflow feature, with setup instructions and expected output.
-- A clear definition of the CR workflow terminology and the criteria for counting checkpoints, if those claims are retained publicly.
+See the [workflow diagram](../assets/diagrams/synapse-workflow.mmd) and [AI-assisted engineering workflow](../AGENTIC_WORKFLOW.md).
 
-Avoid publishing tokens, private source, confidential prompts, user data, or unreviewed model output. Do not present checkpoint count as a quality, productivity, or accuracy metric without supporting evaluation.
+## Evidence status
+
+### Established evidence
+
+- The workflow components and operational use described in the profile.
+- The stated checkpoint count of 100+.
+- A separate repository workflow document describing human direction, focused context, small changes, verification, and traceable decisions.
+
+### Additional artifacts that would require real project evidence
+
+The following are examples of evidence that are not asserted as present here:
+
+- Sanitized, authentic checkpoint and handoff records.
+- A reproducible demonstration of a SYNAPSE feature.
+- An actual smoke-test report, with command, environment, code revision, output, and limitations.
+- Source-verified documentation of the CR workflow and checkpoint-counting method.
+- A measured evaluation of workflow effectiveness.
+
+Do not publish private prompts, credentials, personal data, confidential project context, or unreviewed model output. Do not equate checkpoint count with engineering outcomes.
 
 ## Links
 
-- [Private source repository](https://github.com/kevinreylapiz-max/Synapse)
-- [AI-assisted engineering workflow](../AGENTIC_WORKFLOW.md)
-- [Engineering philosophy](ENGINEERING_PHILOSOPHY.md)
 - [Portfolio](../README.md)
+- [Resume](RESUME.md)
+- [Engineering philosophy](ENGINEERING_PHILOSOPHY.md)
+- [Workflow notes](../AGENTIC_WORKFLOW.md)
+- [Conceptual workflow diagram](../assets/diagrams/synapse-workflow.mmd)
+- [Private source repository](https://github.com/kevinreylapiz-max/Synapse)
