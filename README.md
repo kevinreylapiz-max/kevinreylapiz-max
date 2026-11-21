@@ -16,12 +16,13 @@ I build and maintain software for Android and the web, with a focus on practical
 
 ---
 
-## Engineering Highlights
+## Engineering & Leadership Highlights
 
 - Completed and defended **CacaoGuard**, an Android thesis application prototype, and continued development and maintenance after defense.
 - Built and deployed **SpendLore**, a full-stack personal expense journal.
 - Developing **SYNAPSE**, a human-directed AI engineering system that brings together orchestration workflows, structured project knowledge, and project-specific memory spaces (“cells”). Its source and cells remain private; this portfolio describes the approach without exposing their contents.
 - Created **SafeFileOrganizer**, a safety-first Python utility that organizes files using dry-run previews, reports, quarantine, and undo workflows; it deliberately does not delete files.
+- Serving as a **Naval ROTC officer** at BISU Clarin, including staff roles for Battalion N5 — Plans & Programs and Battalion N3 — Operations & Training.
 - Completed **320 hours of OJT** at an Internet service provider, with practical exposure to networking and computer systems.
 
 ## Featured Projects
@@ -67,7 +68,7 @@ SYNAPSE is a work in progress, not an autonomous agent or a claim that AI output
 
 [Open the documentation index](docs/INDEX.md) for the full guide collection:
 
-- [Resume](docs/RESUME.md) — education, project experience, skills, and training.
+- [Resume](docs/RESUME.md) — education, leadership, military training, project experience, skills, and training.
 - [CacaoGuard overview](docs/CACAOGUARD_OVERVIEW.md) — project scope, technology, boundaries, and evidence status.
 - [SYNAPSE overview](docs/SYNAPSE_OVERVIEW.md) — orchestration approach, project cells, workflow, and human review boundary.
 - [OJT experience](docs/OJT_EXPERIENCE.md) — confirmed training details and evidence status.

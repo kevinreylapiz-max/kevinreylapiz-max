@@ -42,6 +42,21 @@ Computer Science student with hands-on project experience building Android and f
 - **Boundary:** SYNAPSE is evolving and is not an autonomous AI system. The engineer directs work, runs checks, reviews results, and decides what is accepted.
 - [Public overview](SYNAPSE_OVERVIEW.md) · [Workflow notes](../AGENTIC_WORKFLOW.md)
 
+## Leadership & military training
+
+**Naval ROTC Officer — Bohol Island State University, Clarin Campus**  
+Department of Naval Science and Tactics · **2023–Present**
+
+- Served as **Battalion N5 — Plans & Programs** for Academic Year 2024–2025.
+- Served as **Battalion N3 — Operations & Training** for Academic Year 2025–2026.
+- Contributed to the planning, coordination, and execution of unit training programs.
+- Participated in crowd control and event facilitation during organizational activities.
+
+**Military Science 3 Graduate — Cebu Technological University, Carmen**  
+Summer Camp Training
+
+- Completed Military Science 3 training focused on leadership, operations, and structured unit management.
+
 ## Experience
 
 **On-the-Job Trainee — DJTAL Network and Data Solution**  
@@ -66,6 +81,13 @@ Clarin National School of Fisheries · **2017–2020**
 
 **Elementary**  
 Clarin Central Elementary School · **2016–2017**
+
+## Certifications & distinctions
+
+- **With Honor** — Senior High School Graduate, Clarin National School of Fisheries, Clarin, Bohol
+- **Military Science 3 Graduate** — Cebu Technological University, Carmen, Cebu
+- **Military Science 1 Graduate** — Bohol Island State University, Clarin Campus
+- **Military Science 2 Graduate** — Bohol Island State University, Clarin Campus
 
 ## Technical skills
 
