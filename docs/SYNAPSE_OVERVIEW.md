@@ -2,31 +2,30 @@
 
 ## Project summary
 
-SYNAPSE is a local Python methodology and toolkit for structuring AI-assisted software engineering work. It was used operationally during CacaoGuard development, debugging, testing, thesis preparation and defense, and post-defense maintenance.
+SYNAPSE is an evolving, human-directed AI engineering system: a practical harness for orchestrating AI collaborators while keeping engineering goals, context, verification, review, and acceptance under human control. It brings together workflow conventions and a structured knowledge and operations layer intended to help maintain continuity across engineering work.
 
-The source repository is private. This overview documents the workflow as described in the profile; it does not claim that the toolkit is autonomous or that its recorded checkpoints independently demonstrate software quality.
+An important design idea is the **project cell**. A cell is a separate, project-specific memory and continuity space, intended to keep that project's context distinct from other projects. Depending on the project and workflow, it can record state, decisions, checkpoints, handoffs, and queued work. CacaoGuard has a dedicated private cell; other projects can have their own cells as well. This is a conceptual description for the public portfolio, not a disclosure of private cell contents or a guarantee that every capability is complete.
 
-## Verified project facts
+SYNAPSE Core and its project cells are private. This overview explains the approach without publishing repository links, implementation details, private prompts, or project records.
 
-The profile and workflow description establish that SYNAPSE:
+## What the approach brings together
 
-- Is a local Python methodology and toolkit.
-- Supports context continuity, checkpoints, project handoffs, growth journals, smoke-test workflows, and a CR-based workflow.
-- Has been used in work on CacaoGuard across development and post-defense maintenance activities.
-- Has a profile-reported count of 100+ recorded checkpoints.
-- Supports human-directed orchestration across multiple AI models.
+- **AI orchestration:** using AI tools as collaborators for scoped planning, implementation support, and review.
+- **Structured project knowledge:** keeping relevant project context and decisions organized for later work.
+- **Project-specific memory:** separating the context and working state of each project into its own cell.
+- **Human-directed engineering:** keeping task definition, acceptance criteria, deterministic checks, final review, and approval with the engineer.
 
-The checkpoint figure describes a recorded count only. It is not presented as a productivity, quality, accuracy, or impact metric.
+The term “harness” is a useful description of the orchestration and workflow role. The knowledge/operations layer and project cells add a project-aware continuity model. SYNAPSE is not presented as a fully autonomous agent or as an independently validated knowledge operating system.
 
 ## Workflow and responsibility boundary
 
-The human engineer defines goals and acceptance criteria, provides relevant context, directs implementation, runs deterministic checks, reviews results, and decides what is accepted. AI tools may assist with analysis and implementation; their output is not itself verification.
+The human engineer defines goals and acceptance criteria, provides relevant context, directs implementation, runs deterministic checks, reviews results, and decides what is accepted. AI tools may assist with planning, drafting, or analysis, but their output is not treated as verified simply because it sounds plausible.
 
 The conceptual sequence is:
 
 1. Define the problem and constraints.
 2. Plan the approach and acceptance criteria.
-3. Provide focused context.
+3. Provide focused context from the relevant project.
 4. Implement in small, reviewable steps.
 5. Run appropriate tests and checks.
 6. Inspect evidence and revise when needed.
@@ -34,31 +33,16 @@ The conceptual sequence is:
 
 See the [workflow diagram](../assets/diagrams/synapse-workflow.mmd) and [AI-assisted engineering workflow](../AGENTIC_WORKFLOW.md).
 
-## Evidence status
+## Maturity and evidence boundaries
 
-### Established evidence
+SYNAPSE is evolving. Its architecture and workflows should not be confused with proof of software quality, productivity, accuracy, or project outcomes. Any counts of internal records or checkpoints are not outcome metrics. Public descriptions are intentionally high-level because the source system and project cells are private.
 
-- The workflow components and operational use described in the profile.
-- The stated checkpoint count of 100+.
-- A separate repository workflow document describing human direction, focused context, small changes, verification, and traceable decisions.
+Only publish project-specific screenshots, recordings, test results, or implementation details when they are authentic, approved, and safe to share. Do not publish private prompts, credentials, personal data, confidential project context, or unreviewed model output.
 
-### Additional artifacts that would require real project evidence
-
-The following are examples of evidence that are not asserted as present here:
-
-- Sanitized, authentic checkpoint and handoff records.
-- A reproducible demonstration of a SYNAPSE feature.
-- An actual smoke-test report, with command, environment, code revision, output, and limitations.
-- Source-verified documentation of the CR workflow and checkpoint-counting method.
-- A measured evaluation of workflow effectiveness.
-
-Do not publish private prompts, credentials, personal data, confidential project context, or unreviewed model output. Do not equate checkpoint count with engineering outcomes.
-
-## Links
+## Related public documentation
 
 - [Portfolio](../README.md)
 - [Resume](RESUME.md)
 - [Engineering philosophy](ENGINEERING_PHILOSOPHY.md)
 - [Workflow notes](../AGENTIC_WORKFLOW.md)
 - [Conceptual workflow diagram](../assets/diagrams/synapse-workflow.mmd)
-- [Private source repository](https://github.com/kevinreylapiz-max/Synapse)

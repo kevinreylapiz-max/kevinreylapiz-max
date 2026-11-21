@@ -5,7 +5,7 @@
 
 ## Professional summary
 
-Fourth-year Bachelor of Science in Computer Science student with project experience building Android and full-stack web applications. Completed and defended an Android thesis application, built and deployed a personal expense journal, and developed a human-directed workflow for AI-assisted engineering. Values clear requirements, focused implementation, reproducible checks, and human review.
+Computer Science student with hands-on project experience building Android and full-stack web applications. Completed and defended an Android thesis application prototype, built and deployed a personal expense journal, and created a safety-first file organization utility. Developing SYNAPSE, a human-directed AI engineering system that combines orchestration workflows with structured, project-specific knowledge and memory. Completed 320 hours of on-the-job training at an Internet service provider.
 
 ## Selected projects
 
@@ -15,7 +15,7 @@ Fourth-year Bachelor of Science in Computer Science student with project experie
 - Combined camera/image input, on-device TensorFlow Lite inference, location-tagged detections, map views, local history, and backend services.
 - Completed and defended as a thesis project; continued development and maintenance after defense.
 - **Technologies:** Kotlin, Jetpack Compose, TensorFlow Lite, CameraX, Room, OSMDroid, Supabase.
-- **Scope boundary:** Prototype only; not a validated agricultural diagnostic tool. The source repository is private and no public demo is currently available.
+- **Scope boundary:** Prototype only; not a validated agricultural diagnostic tool. Source code and its project-specific SYNAPSE cell are private; no public demo is currently available.
 - [Project overview](CACAOGUARD_OVERVIEW.md)
 
 ### SpendLore — deployed personal expense journal
@@ -26,20 +26,21 @@ Fourth-year Bachelor of Science in Computer Science student with project experie
 - [Live application](https://spendlore.vercel.app)
 - The source repository is private.
 
-### SYNAPSE — human-directed AI engineering methodology and toolkit
+### SafeFileOrganizer — safety-first file organization utility
 
-- Developed a local Python methodology and toolkit for structuring AI-assisted software engineering work.
-- Used during CacaoGuard development, debugging, testing, thesis preparation and defense, and post-defense maintenance.
-- Workflow components include context continuity, checkpointing, project handoffs, smoke-test workflows, and human-directed orchestration across multiple AI models.
-- The project description records 100+ checkpoints; this is a checkpoint count, not a measure of software quality or productivity.
-- **Scope boundary:** The human engineer directs work, reviews outputs, and decides what is accepted. SYNAPSE is not an autonomous AI system.
-- [Project overview](SYNAPSE_OVERVIEW.md) · [Workflow notes](../AGENTIC_WORKFLOW.md)
+- Created a Python utility that classifies files, detects duplicates, and moves selected items into a review quarantine.
+- Uses dry-run reports before changes and provides an undo workflow; the application does not delete files.
+- Windows is tested; Linux and macOS are untested.
+- **Technologies:** Python standard library, unittest.
+- [Public source repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer)
 
-### Visitor Tracker API
+### SYNAPSE — human-directed AI engineering system
 
-- Node.js and Express service that records visitor activity, provides statistics and health-check endpoints, and generates an SVG views badge.
-- **Technologies:** JavaScript, Node.js, Express, Axios, JSON.
-- [Implementation](../visitor-tracker-server.js)
+- Developing an engineering workflow and supporting system for orchestrating AI collaborators while keeping goals, acceptance criteria, verification, and approval human-directed.
+- Combines structured project knowledge and operational continuity with separate project-specific memory spaces called **cells**. Cells keep each project's context, state, decisions, checkpoints, handoffs, and work queue distinct.
+- CacaoGuard is an example of a project with its own private cell. SYNAPSE Core and all project cells remain private; this resume and portfolio describe the concept without linking to or disclosing their contents.
+- **Boundary:** SYNAPSE is evolving and is not an autonomous AI system. The engineer directs work, runs checks, reviews results, and decides what is accepted.
+- [Public overview](SYNAPSE_OVERVIEW.md) · [Workflow notes](../AGENTIC_WORKFLOW.md)
 
 ## Experience
 
@@ -50,14 +51,28 @@ Completed on-the-job training at an Internet service provider, with practical ex
 
 ## Education
 
-**Bachelor of Science in Computer Science — fourth-year student**
+**Bachelor of Science in Computer Science**  
+Bohol Island State University — Clarin Campus · **2023–Present**
+
+**Senior High School — Technical-Vocational Track**  
+Clarin National School of Fisheries · **2021–2023**  
+Specialization: Computer System Servicing (CSS) · **With Honor**
+
+**High School**  
+Nahawan High School · **2020–2021**
+
+**High School**  
+Clarin National School of Fisheries · **2017–2020**
+
+**Elementary**  
+Clarin Central Elementary School · **2016–2017**
 
 ## Technical skills
 
-- **Languages:** Kotlin, TypeScript, JavaScript, Python, PHP
+- **Languages:** Kotlin, TypeScript, JavaScript, Python, PHP, PowerShell
 - **Web and mobile:** React, Vite, Android, Jetpack Compose
 - **Backend and data:** Node.js, Express, Supabase, PostgreSQL, MySQL, SQLite, Room
-- **AI and verification:** TensorFlow Lite, Playwright, smoke-test workflows, human-directed multi-model workflows
+- **AI and verification:** TensorFlow Lite, Playwright, unittest, smoke-test workflows, human-directed AI orchestration
 - **Tools and deployment:** Git, GitHub Actions, Vercel
 
 These technologies reflect project, coursework, and training experience; depth varies by tool.
