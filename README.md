@@ -10,7 +10,7 @@ I build and maintain software for Android and the web, with a focus on practical
 
 [Portfolio](https://kevinreylapiz.rf.gd) · [Email](mailto:kevinreylapiz@gmail.com) · [GitHub](https://github.com/kevinreylapiz-max)
 
-[Projects](#featured-projects) · [SYNAPSE](#synapse--human-directed-ai-engineering-system) · [Education](docs/RESUME.md#education) · [Resume](docs/RESUME.md)
+[![Projects](https://img.shields.io/badge/Projects-Featured-1f6feb?style=for-the-badge)](#featured-projects) [![SYNAPSE](https://img.shields.io/badge/SYNAPSE-Overview-8957e5?style=for-the-badge)](#synapse--human-directed-ai-engineering-system) [![Resume](https://img.shields.io/badge/Resume-Education%20%26%20Experience-238636?style=for-the-badge)](docs/RESUME.md) [![Leadership](https://img.shields.io/badge/Leadership-ROTC%20%26%20Training-bc4c00?style=for-the-badge)](docs/RESUME.md#leadership--military-training) [![Technologies](https://img.shields.io/badge/Technologies-Stack-0969da?style=for-the-badge)](#technologies--tools)
 
 </div>
 
