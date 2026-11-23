@@ -2,11 +2,11 @@
 
 # Kevin Rey Lapiz
 
-### Software Developer · Android · Full-Stack Web · Human-Directed AI Engineering
+### Computer Science Student · Android Developer · Full-Stack Web · Human-Directed AI Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Useful+Software+with+Purpose;Computer+Science+Student+%C2%B7+Software+Developer;Android+%C2%B7+Full-Stack+Web+%C2%B7+Python+Projects;From+Ideas+to+Working+Applications;Human-Directed+AI+Engineering;AI+Assists.+Human+Judgment+Leads.;Plan+%C2%B7+Build+%C2%B7+Test+%C2%B7+Review;Small+Changes.+Careful+Verification.;Naval+ROTC+Officer+%C2%B7+Plans,+Operations+%26+Training;Engineering+with+Discipline+and+Responsibility;Always+Learning.+Always+Building.;Turning+Ideas+into+Verified+Software" alt="Building useful software with purpose; Computer Science student and software developer; Android, full-stack web, and Python projects; From ideas to working applications; Human-directed AI engineering; AI assists, human judgment leads; Plan, build, test, review; Small changes, careful verification; Naval ROTC officer in plans, operations, and training; Engineering with discipline and responsibility; Always learning, always building; Turning ideas into verified software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Useful+Software+with+Purpose;Computer+Science+Student+%26+Software+Builder;Android+%26+Full-Stack+Web+Development;Turning+Ideas+into+Working+Applications;Human-Directed+AI+Engineering;Plan+%26+Build+%26+Test+%26+Review;Engineering+with+Discipline+and+Responsibility" alt="Computer Science student and software builder; Android, full-stack web, AI-assisted engineering, and responsible verification" />
 
-I build and maintain software for Android and the web, with a focus on practical project work, clear documentation, and verification that keeps human judgment in the loop.
+I build and maintain practical software for Android and the web, combining hands-on project experience, clear documentation, and disciplined verification. As a Computer Science student, I bring a builder mindset: clarify the goal, design the solution, test the implementation, review the evidence, and improve the result.
 
 [Portfolio](https://kevinreylapiz.rf.gd) · [Email](mailto:kevinreylapiz@gmail.com) · [GitHub](https://github.com/kevinreylapiz-max)
 
@@ -20,7 +20,7 @@ I build and maintain software for Android and the web, with a focus on practical
 
 - Completed and defended **CacaoGuard**, an Android thesis application prototype, and continued development and maintenance after defense.
 - Built and deployed **SpendLore**, a full-stack personal expense journal.
-- Developing **SYNAPSE**, a human-directed AI engineering system that brings together orchestration workflows, structured project knowledge, and project-specific memory spaces (“cells”). Its source and cells remain private; this portfolio describes the approach without exposing their contents.
+- Developing **SYNAPSE**, a human-directed AI engineering system that brings together orchestration workflows, structured project knowledge, and project-specific memory spaces ("cells"). Its source and cells remain private; this portfolio describes the approach without exposing the implementation.
 - Created **SafeFileOrganizer**, a safety-first Python utility that organizes files using dry-run previews, reports, quarantine, and undo workflows; it deliberately does not delete files.
 - Serving as a **Naval ROTC officer** at BISU Clarin, including staff roles for Battalion N5 — Plans & Programs and Battalion N3 — Operations & Training.
 - Completed **320 hours of OJT** at an Internet service provider, with practical exposure to networking and computer systems.
@@ -81,12 +81,14 @@ Examples in this repository that are explicitly labeled demonstration-only are n
 
 ## Technologies & Tools
 
-**Languages**  
+**Programming languages**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Scripting & automation**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 **Android & Web**  
