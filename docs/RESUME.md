@@ -66,20 +66,20 @@ Completed on-the-job training at an Internet service provider, with practical ex
 
 ## Education
 
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science — 1st–4th Year**  
 Bohol Island State University — Clarin Campus · **2023–Present**
 
-**Senior High School — Technical-Vocational Track**  
+**Senior High School — Technical-Vocational Track (Grades 11–12)**  
 Clarin National School of Fisheries · **2021–2023**  
 Specialization: Computer System Servicing (CSS) · **With Honor**
 
-**High School**  
+**High School — Grade 10**  
 Nahawan High School · **2020–2021**
 
-**High School**  
+**High School — Grades 7–9**  
 Clarin National School of Fisheries · **2017–2020**
 
-**Elementary**  
+**Elementary — Grade 6**  
 Clarin Central Elementary School · **2016–2017**
 
 ## Certifications & distinctions
@@ -91,11 +91,11 @@ Clarin Central Elementary School · **2016–2017**
 
 ## Technical skills
 
-- **Languages:** Kotlin, TypeScript, JavaScript, Python, PHP, PowerShell
+- **Languages:** Kotlin, TypeScript, JavaScript, Python, PHP
 - **Web and mobile:** React, Vite, Android, Jetpack Compose
 - **Backend and data:** Node.js, Express, Supabase, PostgreSQL, MySQL, SQLite, Room
 - **AI and verification:** TensorFlow Lite, Playwright, unittest, smoke-test workflows, human-directed AI orchestration
-- **Tools and deployment:** Git, GitHub Actions, Vercel
+- **Tools and deployment:** PowerShell, Git, GitHub Actions, Vercel
 
 These technologies reflect project, coursework, and training experience; depth varies by tool.
 
