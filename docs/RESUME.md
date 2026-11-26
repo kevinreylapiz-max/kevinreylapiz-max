@@ -5,7 +5,7 @@
 
 ## Summary
 
-Computer Science student with hands-on experience developing Android and full-stack web applications through academic and personal projects. Built and defended an Android thesis application prototype and developed and deployed a personal expense journal.
+Computer Science student with hands-on experience developing Android and full-stack web applications through academic and personal projects. Built and defended an Android thesis application prototype exploring cacao-pod image classification and location-based detection records. Experienced with Kotlin, Jetpack Compose, TensorFlow Lite, React, TypeScript, Vite, Supabase, PostgreSQL, Playwright, and GitHub Actions.
 
 ## Selected projects
 
@@ -37,7 +37,7 @@ Computer Science student with hands-on experience developing Android and full-st
 ### SYNAPSE — human-directed AI engineering system
 
 - Developing an engineering workflow and supporting system for orchestrating AI collaborators while keeping goals, acceptance criteria, verification, and approval human-directed.
-- Combines structured project knowledge and operational continuity with separate project-specific memory spaces called **cells**. Cells keep each project's context, state, decisions, checkpoints, handoffs, and verification available across sessions.
+- Combines structured project knowledge and operational continuity with separate project-specific memory spaces called **cells**. Cells keep each project's context, state, decisions, checkpoints, handoffs, and project-specific operating knowledge isolated from the rest of the system.
 - CacaoGuard is an example of a project with its own private cell. SYNAPSE Core and all project cells remain private; this resume and portfolio describe the concept without linking to or disclosing the private implementation.
 - **Boundary:** SYNAPSE is evolving and is not an autonomous AI system. The engineer directs work, runs checks, reviews results, and decides what is accepted.
 - [Public overview](SYNAPSE_OVERVIEW.md) · [Workflow notes](../AGENTIC_WORKFLOW.md)
@@ -47,10 +47,12 @@ Computer Science student with hands-on experience developing Android and full-st
 **Naval ROTC Officer — Bohol Island State University, Clarin Campus**  
 Department of Naval Science and Tactics · **2023–Present**
 
+- **Junior Staff Instructor (JSI)** for Academic Year 2026–2027.
 - Served as **Battalion N5 — Plans & Programs** for Academic Year 2024–2025.
 - Served as **Battalion N3 — Operations & Training** for Academic Year 2025–2026.
 - Contributed to the planning, coordination, and execution of unit training programs.
 - Participated in crowd control and event facilitation during organizational activities.
+- **Reservist:** Philippine Navy Reserve Force.
 
 **Military Science 3 Graduate — Cebu Technological University, Carmen**  
 Summer Camp Training
