@@ -1,114 +1,56 @@
-# Kevin Rey Lapiz
+﻿# Kevin Rey Lapiz
 
-**Computer Science Student | Android, full-stack web, and human-directed AI engineering**  
-[Email](mailto:kevinreylapiz@gmail.com) · [Portfolio](https://kevinreylapiz.rf.gd) · [GitHub](https://github.com/kevinreylapiz-max)
+**BS Computer Science Student · Android, Full-Stack Web & Human-Directed AI Engineering**  
+Clarin, Bohol, Philippines · [Email](mailto:kevinreylapiz@gmail.com) · [Portfolio](https://kevinreylapiz.rf.gd) · [GitHub](https://github.com/kevinreylapiz-max)
 
 ## Summary
 
-Computer Science student with hands-on experience developing Android and full-stack web applications through academic and personal projects. Built and defended an Android thesis application prototype exploring cacao-pod image classification and location-based detection records. Experienced with Kotlin, Jetpack Compose, TensorFlow Lite, React, TypeScript, Vite, Supabase, PostgreSQL, Playwright, and GitHub Actions.
+4th-year Bachelor of Science in Computer Science student experienced in developing Android applications, full-stack web applications, and structured AI-assisted engineering workflows. Skilled in Kotlin, Jetpack Compose, TensorFlow Lite, React, TypeScript, Vite, Supabase, PostgreSQL, Vitest, Playwright, and GitHub Actions, with leadership experience in Naval ROTC and 320 hours of ISP OJT.
 
-## Selected projects
+## Projects
 
-### CacaoGuard — Android thesis application
+### CacaoGuard — Android Thesis Application
+- Built and defended an Android thesis prototype for cacao-pod image classification and location-tagged detection records.
+- Integrated camera/image capture, on-device TensorFlow Lite inference, Room local storage, OSMDroid map views, and Supabase backend services, with ongoing post-defense maintenance.
+- **Stack:** Kotlin, Jetpack Compose, TensorFlow Lite, CameraX, Room, OSMDroid, Supabase.
 
-- Built an Android prototype exploring cacao-pod image classification and location-based detection records.
-- Combined camera/image input, on-device TensorFlow Lite inference, location-tagged detections, map views, local history, and backend services.
-- Completed and defended as a thesis project; continued development and maintenance after defense.
-- **Technologies:** Kotlin, Jetpack Compose, TensorFlow Lite, CameraX, Room, OSMDroid, Supabase.
-- **Scope boundary:** Prototype only; not a validated agricultural diagnostic tool. Source code and its project-specific SYNAPSE cell are private; no public demo is currently available.
-- [Project overview](CACAOGUARD_OVERVIEW.md)
+### SpendLore — Personal Expense Journal Web Application
+- Built and deployed a personal expense tracking web app in PHP (`₱`) featuring charts, date-based reports, searchable history, and deterministic exports.
+- Implemented authenticator TOTP MFA, PostgreSQL row-level security, an optional bring-your-own-AI workflow, and automated unit, offline, and browser tests via Vitest, Playwright, and GitHub Actions.
+- **Stack:** React, TypeScript, Vite, Supabase, PostgreSQL, Vitest, Playwright, GitHub Actions ([Live Demo](https://spendlore.vercel.app)).
 
-### SpendLore — deployed personal expense journal
+### SafeFileOrganizer — Safety-First File Organization Utility
+- Built a Python utility that classifies files, detects duplicates, and routes items into a review quarantine with dry-run previews and undo support without deleting files.
+- **Stack:** Python Standard Library, `unittest` ([Repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer)).
 
-- Built and deployed a web application for recording and reviewing personal expenses.
-- Includes charts, date-based reports, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow.
-- **Technologies:** React, TypeScript, Vite, Supabase, PostgreSQL, Playwright, GitHub Actions.
-- [Live application](https://spendlore.vercel.app)
-- The source repository is private.
-
-### SafeFileOrganizer — safety-first file organization utility
-
-- Created a Python utility that classifies files, detects duplicates, and moves selected items into a review quarantine.
-- Uses dry-run reports before changes and provides an undo workflow; the application does not delete files.
-- Windows is tested; Linux and macOS are untested.
-- **Technologies:** Python standard library, unittest.
-- [Public source repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer)
-
-### SYNAPSE — human-directed AI engineering system
-
-- Developing an engineering workflow and supporting system for orchestrating AI collaborators while keeping goals, acceptance criteria, verification, and approval human-directed.
-- Combines structured project knowledge and operational continuity with separate project-specific memory spaces called **cells**. Cells keep each project's context, state, decisions, checkpoints, handoffs, and project-specific operating knowledge isolated from the rest of the system.
-- CacaoGuard is an example of a project with its own private cell. SYNAPSE Core and all project cells remain private; this resume and portfolio describe the concept without linking to or disclosing the private implementation.
-- **Boundary:** SYNAPSE is evolving and is not an autonomous AI system. The engineer directs work, runs checks, reviews results, and decides what is accepted.
-- [Public overview](SYNAPSE_OVERVIEW.md) · [Workflow notes](../AGENTIC_WORKFLOW.md)
-
-## Leadership & military training
-
-**Naval ROTC Officer — Bohol Island State University, Clarin Campus**  
-Department of Naval Science and Tactics · **2023–Present**
-
-- **Junior Staff Instructor (JSI)** for Academic Year 2026–2027.
-- Served as **Battalion N5 — Plans & Programs** for Academic Year 2024–2025.
-- Served as **Battalion N3 — Operations & Training** for Academic Year 2025–2026.
-- Contributed to the planning, coordination, and execution of unit training programs.
-- Participated in crowd control and event facilitation during organizational activities.
-- **Reservist:** Philippine Navy Reserve Force.
-
-**Military Science 3 Graduate — Cebu Technological University, Carmen**  
-Summer Camp Training
-
-- Completed Military Science 3 training focused on leadership, operations, and structured unit management.
+### SYNAPSE — Human-Directed AI Engineering Workflow
+- Developing a structured engineering workflow and tooling for directing AI collaborators using isolated project memory spaces ("cells"), explicit acceptance criteria, and deterministic verification checks.
 
 ## Experience
 
 **On-the-Job Trainee — DJTAL Network and Data Solution**  
-Tubigon, Bohol, Philippines · **320-hour OJT completed**
+Tubigon, Bohol, Philippines · **320 Hours Completed**
+- Completed 320 hours of on-the-job training at an Internet service provider with practical exposure to network operations and computer systems support.
 
-Completed on-the-job training at an Internet service provider, with practical exposure to networking and computer systems. Further responsibilities are not specified in the available profile information.
+## Leadership & Military Training
+
+**Naval ROTC Officer — Bohol Island State University, Clarin Campus**  
+Department of Naval Science and Tactics · **2023–Present**
+- **Junior Staff Instructor (JSI)** (AY 2026–2027), **Battalion N3 — Operations & Training** (AY 2025–2026), and **Battalion N5 — Plans & Programs** (AY 2024–2025).
+- Planned, coordinated, and executed unit training programs, operational logistics, and organizational event facilitation.
+- **Reservist:** Philippine Navy Reserve Force (Military Science 1, 2, and 3 Graduate — Cebu Technological University, Carmen).
 
 ## Education
 
-**Bachelor of Science in Computer Science — 1st–4th Year**  
+**Bachelor of Science in Computer Science (4th Year)**  
 Bohol Island State University — Clarin Campus · **2023–Present**
 
-**Senior High School — Technical-Vocational Track (Grades 11–12)**  
-Clarin National School of Fisheries · **2021–2023**  
-Specialization: Computer System Servicing (CSS) · **With Honor**
+**Senior High School — Technical-Vocational Track (Computer System Servicing)**  
+Clarin National School of Fisheries · **2021–2023** · **With Honor**
 
-**High School — Grade 10**  
-Nahawan High School · **2020–2021**
+## Technical Skills
 
-**High School — Grades 7–9**  
-Clarin National School of Fisheries · **2017–2020**
-
-**Elementary — Grade 6**  
-Clarin Central Elementary School · **2016–2017**
-
-## Certifications & distinctions
-
-- **With Honor** — Senior High School Graduate, Clarin National School of Fisheries, Clarin, Bohol
-- **Military Science 3 Graduate** — Cebu Technological University, Carmen, Cebu
-- **Military Science 1 Graduate** — Bohol Island State University, Clarin Campus
-- **Military Science 2 Graduate** — Bohol Island State University, Clarin Campus
-
-## Technical skills
-
-- **Languages:** Kotlin, TypeScript, JavaScript, Python, PHP
-- **Web and mobile:** React, Vite, Android, Jetpack Compose
-- **Backend and data:** Node.js, Express, Supabase, PostgreSQL, MySQL, SQLite, Room
-- **AI and verification:** TensorFlow Lite, Playwright, unittest, smoke-test workflows, human-directed AI orchestration
-- **Tools and deployment:** PowerShell, Git, GitHub Actions, Vercel
-
-These technologies reflect project, coursework, and training experience; depth varies by tool.
-
-## Supporting documentation
-
-- [CacaoGuard overview](CACAOGUARD_OVERVIEW.md)
-- [SYNAPSE overview](SYNAPSE_OVERVIEW.md)
-- [OJT experience](OJT_EXPERIENCE.md)
-- [Engineering philosophy](ENGINEERING_PHILOSOPHY.md)
-- [AI-assisted engineering workflow](../AGENTIC_WORKFLOW.md)
-
-## PDF version
-
-The editable resume source is this Markdown file. No PDF resume is included in this repository at this time.
+- **Languages:** Kotlin, TypeScript, JavaScript, Python, SQL, PHP
+- **Mobile & Web:** Android, Jetpack Compose, CameraX, React, Vite, HTML/CSS
+- **Backend & Databases:** PostgreSQL, Supabase, Node.js, Express, Room, SQLite, MySQL
+- **AI, Testing & DevOps:** TensorFlow Lite, Playwright, Vitest, `unittest`, Git, GitHub Actions, Vercel, PowerShell

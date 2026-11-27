@@ -1,4 +1,4 @@
-<p align="right">
+﻿<p align="right">
   <img src="https://komarev.com/ghpvc/?username=kevinreylapiz-max&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <div align="center">
@@ -7,9 +7,9 @@
 
 ### Computer Science Student · Android Developer · Full-Stack Web · Human-Directed AI Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Useful+Software+with+Purpose;Computer+Science+Student+%26+Software+Builder;Android+%26+Full-Stack+Web+Development;Turning+Ideas+into+Working+Applications;Human-Directed+AI+Engineering;Plan+%26+Build+%26+Test+%26+Review;Engineering+with+Discipline+and+Responsibility" alt="Computer Science student and software builder; Android, full-stack web, AI-assisted engineering, and responsible verification" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Practical+Software+with+Purpose;Computer+Science+Student+%26+Software+Builder;Android+%26+Full-Stack+Web+Development;Turning+Ideas+into+Working+Applications;Human-Directed+AI+Engineering;Plan+%26+Build+%26+Test+%26+Review;Engineering+with+Discipline+and+Responsibility" alt="Computer Science student and software builder; Android, full-stack web, AI-assisted engineering, and responsible verification" />
 
-I build and maintain practical software for Android and the web, combining hands-on project experience, clear documentation, and disciplined verification. As a Computer Science student, I bring a builder mindset: clarify the goal, design the solution, test the implementation, review the evidence, and improve the result.
+4th-year BS Computer Science student at **Bohol Island State University (Clarin Campus)** building Android applications, full-stack web apps, and structured AI-assisted engineering workflows with clear scope, deterministic checks, and human verification.
 
 [Portfolio](https://kevinreylapiz.rf.gd) · [Email](mailto:kevinreylapiz@gmail.com) · [GitHub](https://github.com/kevinreylapiz-max)
 
@@ -19,68 +19,63 @@ I build and maintain practical software for Android and the web, combining hands
 
 ---
 
-## Engineering & Leadership Highlights
+## Highlights
 
-- Completed and defended **CacaoGuard**, an Android thesis application prototype, and continued development and maintenance after defense.
-- Built and deployed **SpendLore**, a full-stack personal expense journal.
-- Developing **SYNAPSE**, a human-directed AI engineering system that brings together orchestration workflows, structured project knowledge, and project-specific memory spaces ("cells"). Its source and cells remain private; this portfolio describes the approach without exposing the implementation.
-- Created **SafeFileOrganizer**, a safety-first Python utility that organizes files using dry-run previews, reports, quarantine, and undo workflows; it deliberately does not delete files.
-- Serving as a **Naval ROTC officer** at BISU Clarin, including staff roles for Battalion N5 — Plans & Programs and Battalion N3 — Operations & Training.
-- Completed **320 hours of OJT** at an Internet service provider, with practical exposure to networking and computer systems.
+- **CacaoGuard:** Defended and maintained an Android thesis prototype for cacao-pod image classification and geotagged detection records using on-device TensorFlow Lite inference, Room persistence, OSMDroid maps, and Supabase.
+- **SpendLore:** Built and deployed a personal expense journal featuring charts, date-filtered reports, searchable history, authenticator MFA, PostgreSQL row-level security, and Vitest/Playwright test coverage.
+- **SafeFileOrganizer:** Built a Python file-organization and duplicate-detection utility using dry-run reports, review quarantine, undo support, and `unittest` without deleting files.
+- **SYNAPSE:** Developing a human-directed AI engineering workflow and verification harness with isolated project memory spaces ("cells") and explicit human review gates.
+- **Leadership & OJT:** Naval ROTC Officer at BISU Clarin (Battalion N5, Battalion N3, Junior Staff Instructor; Philippine Navy Reserve Force reservist) and 320 hours of ISP OJT at DJTAL Network and Data Solution.
+
+---
 
 ## Featured Projects
 
-### CacaoGuard · Android thesis application
+### CacaoGuard · Android Thesis Application
 
-An Android prototype exploring cacao-pod image classification and location-based detection records. It brings together image input, on-device TensorFlow Lite inference, location-tagged detections, local history, maps, and backend services.
+Android prototype for cacao-pod image classification and location-based detection tracking, combining camera/image capture, on-device TensorFlow Lite inference, local history, interactive map views, and backend services.
 
 **Technologies:** Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase  
-[Project overview](docs/CACAOGUARD_OVERVIEW.md)
+[Project overview](docs/CACAOGUARD_OVERVIEW.md) · *Scope: Prototype for academic/thesis exploration; core repository and project cell remain private.*
 
-> CacaoGuard is a prototype, not a validated agricultural diagnostic tool. Source code and its project-specific SYNAPSE cell are private; no public demo is currently available.
+### SpendLore · Deployed Expense Journal
 
-### SpendLore · Deployed expense journal
+Web application for tracking personal expenses in PHP (`₱`), with analytics charts, date-based reports, searchable history, mandatory authenticator MFA, optional bring-your-own-AI analysis, and automated unit/browser/offline checks.
 
-A web application for recording and reviewing personal expenses, with charts, date-based reports, searchable history, authenticator MFA, and an optional bring-your-own-AI workflow.
-
-**Technologies:** React · TypeScript · Vite · Supabase · PostgreSQL · Playwright · GitHub Actions  
+**Technologies:** React · TypeScript · Vite · Supabase · PostgreSQL · Vitest · Playwright · GitHub Actions  
 [Open the live application](https://spendlore.vercel.app)
 
-The source repository is private.
+### SafeFileOrganizer · Safety-First File Organization
 
-### SafeFileOrganizer · Safety-first file organization
-
-A Python utility for classifying files, detecting duplicates, and moving selected items into a review quarantine. It creates dry-run reports before changes, supports an undo workflow, and is designed to avoid deletion. Windows is the tested platform; other platforms are untested.
+Python utility that classifies files, detects duplicates, and routes items into a review quarantine using dry-run previews and an undo workflow without deleting files.
 
 **Technologies:** Python · Standard Library · unittest  
-[Public source repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer)
+[Public source repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer) · *Tested on Windows.*
 
-> Back up important data and inspect the dry-run report before authorizing file movement. The review folder is a quarantine, not a deletion target.
+---
 
-## SYNAPSE · Human-directed AI engineering system
+## SYNAPSE · Human-Directed AI Engineering System
 
-SYNAPSE is my evolving approach to using AI as an engineering collaborator while keeping the human engineer responsible for direction, verification, review, and acceptance. It combines AI orchestration practices with a structured knowledge and operations layer for carrying project context forward.
+SYNAPSE is an evolving workflow and tooling approach for collaborating with AI coding assistants while keeping problem scoping, acceptance criteria, deterministic verification, and final approval under human control.
 
-A central idea is the **project cell**: a separate, project-specific memory and continuity space. A cell can keep that project's state, decisions, checkpoints, handoffs, and work queue distinct, rather than mixing context across unrelated projects. For example, CacaoGuard has its own private cell. The public portfolio describes this architecture at a high level; SYNAPSE Core and its cells remain private.
-
-SYNAPSE is a work in progress, not an autonomous agent or a claim that AI output is correct. I direct the work, run deterministic checks, review evidence, and decide what is accepted.
+A core concept is the **project cell**—an isolated memory and continuity space per project that tracks state, decisions, checkpoints, handoffs, and queued work without cross-project bleed. SYNAPSE Core and individual project cells remain private; public documentation outlines the workflow and verification boundaries.
 
 [Project overview](docs/SYNAPSE_OVERVIEW.md) · [Workflow notes](AGENTIC_WORKFLOW.md)
 
+---
+
 ## Documentation
 
-[Open the documentation index](docs/INDEX.md) for the full guide collection:
+[Documentation index](docs/INDEX.md):
 
-- [Resume](docs/RESUME.md) — education, leadership, military training, project experience, skills, and training.
-- [CacaoGuard overview](docs/CACAOGUARD_OVERVIEW.md) — project scope, technology, boundaries, and evidence status.
-- [SYNAPSE overview](docs/SYNAPSE_OVERVIEW.md) — orchestration approach, project cells, workflow, and human review boundary.
-- [OJT experience](docs/OJT_EXPERIENCE.md) — confirmed training details and evidence status.
-- [Engineering philosophy](docs/ENGINEERING_PHILOSOPHY.md) — principles for implementation, verification, and responsible AI use.
-- [AI-assisted engineering workflow](AGENTIC_WORKFLOW.md) — workflow steps and collaborator roles.
+- [Resume](docs/RESUME.md) — education, leadership, military training, project experience, and technical skills.
+- [CacaoGuard overview](docs/CACAOGUARD_OVERVIEW.md) — architecture outline, scope, and evidence status.
+- [SYNAPSE overview](docs/SYNAPSE_OVERVIEW.md) — workflow model, project cells, and human review boundary.
+- [OJT experience](docs/OJT_EXPERIENCE.md) — 320-hour ISP placement details at DJTAL Network and Data Solution.
+- [Engineering philosophy](docs/ENGINEERING_PHILOSOPHY.md) — problem scoping, deterministic verification, and responsible disclosure.
+- [AI-assisted engineering workflow](AGENTIC_WORKFLOW.md) — collaborator roles and verification loop.
 
-## Evidence and responsible disclosure
-
-Examples in this repository that are explicitly labeled demonstration-only are not real project test results or checkpoints. Project-specific screenshots, recordings, test results, and implementation details should be shared only when authentic, approved, and safe to publish. Private repositories, prompts, credentials, personal data, and confidential project context are not included here.
+---
 
 ## Technologies & Tools
 
@@ -134,11 +129,7 @@ Examples in this repository that are explicitly labeled demonstration-only are n
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-These technologies reflect project, coursework, and training experience; depth varies by tool. AI-assisted work does not replace testing or human review.
-
-## GitHub activity
-
-The contribution streak is a lightweight activity indicator, not a measure of code quality or impact. GitHub's contribution rules and the availability of the external card service can affect what is displayed.
+## GitHub Activity
 
 <div align="center">
 
@@ -148,6 +139,6 @@ The contribution streak is a lightweight activity indicator, not a measure of co
 
 ## Contact
 
-Open to internship and junior software engineering opportunities, including Android and full-stack development, and to project collaboration.
+Open to internship and junior software engineering opportunities across Android and full-stack web development, as well as technical collaboration.
 
 [Email](mailto:kevinreylapiz@gmail.com) · [Portfolio](https://kevinreylapiz.rf.gd) · [GitHub](https://github.com/kevinreylapiz-max)
