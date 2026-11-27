@@ -1,56 +1,23 @@
-# CacaoGuard — project overview
+# CacaoGuard — Project Overview
 
-## Project summary
+## Summary
 
-CacaoGuard is an Android thesis application prototype exploring cacao-pod image classification and location-based detection records. The project was completed and defended as a thesis, and development and maintenance continued after the defense.
+CacaoGuard is an Android thesis application prototype for cacao-pod image classification and location-tagged detection records. It was developed and defended as a thesis project, with continued maintenance and engineering refinement afterward.
 
-**Access:** The source repository is private. A public demo is not currently available.
+## Capabilities & Stack
 
-## Verified project facts
+- **Capture & Inference:** Camera/image input paired with on-device TensorFlow Lite classification.
+- **Records & Maps:** Location-tagged detection entries, local history persistence, interactive map views, and backend integration.
+- **Technologies:** Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase.
 
-The profile and project description establish the following:
+## Scope & Boundaries
 
-- The application was developed for Android.
-- It combines camera or image input with on-device TensorFlow Lite inference.
-- It includes location-tagged detections, map views, local detection history, and backend services.
-- The project uses Kotlin, Jetpack Compose, TensorFlow Lite, CameraX, Room, OSMDroid, and Supabase.
-- The thesis was completed and defended, followed by continued development and maintenance.
+- **Academic Prototype:** Built for thesis exploration and software engineering development rather than validated commercial agricultural diagnostics.
+- **Repository Status:** Core source repository and project-specific SYNAPSE cell remain private.
 
-## System outline
-
-The diagram in [`assets/diagrams/cacaoguard-architecture.mmd`](../assets/diagrams/cacaoguard-architecture.mmd) is a conceptual view based on the components listed above. It is not a verified source-level architecture specification. The exact data flow, synchronization behavior, model inputs and outputs, and division of responsibilities between local storage and backend services are not established in the available public description.
-
-## Scope and limitations
-
-CacaoGuard should be described as a project prototype, not a validated agricultural diagnostic tool. No model accuracy, field-validation result, dataset details, or agricultural outcome is asserted here. No performance or reliability claims are made without published supporting evidence.
-
-## Technology
-
-Kotlin · Jetpack Compose · TensorFlow Lite · CameraX · Room · OSMDroid · Supabase
-
-## Evidence status
-
-### Established evidence
-
-- Thesis application completed and defended.
-- Android application scope and technology list as stated in the profile.
-- Continued development and maintenance after defense.
-
-### Additional artifacts that would require real project evidence
-
-The following are not included or claimed as completed in this document:
-
-- Application screenshots or a screen recording from an actual build.
-- A source-verified architecture diagram and data-flow description.
-- A model card, dataset provenance, evaluation protocol, and measured model results.
-- A test report tied to a specific build or commit.
-- A sanitized sample record or demonstration of synchronization behavior.
-
-Any future public artifact should be checked for credentials, personal information, sensitive location data, private endpoints, and non-public thesis material. Model or field-performance claims should only be published with reproducible supporting evidence.
-
-## Links
+## Related Links
 
 - [Portfolio](../README.md)
 - [Resume](RESUME.md)
-- [Conceptual architecture diagram](../assets/diagrams/cacaoguard-architecture.mmd)
-- [Private source repository](https://github.com/kevinreylapiz-max/CacaoGuard)
+- [Conceptual Architecture Diagram](../assets/diagrams/cacaoguard-architecture.mmd)
+- [Source Repository](https://github.com/kevinreylapiz-max/CacaoGuard)

@@ -1,39 +1,21 @@
-# On-the-Job Training — experience record
+# On-the-Job Training — DJTAL Network and Data Solution
 
 ## Placement
 
-**Role:** On-the-Job Trainee  
-**Organization:** DJTAL Network and Data Solution  
-**Location:** Tubigon, Bohol, Philippines  
-**Duration:** 320 hours completed  
-**Organization context:** Internet service provider
+- **Role:** On-the-Job Trainee (ISP & Field Networking)
+- **Organization:** DJTAL Network and Data Solution
+- **Location:** Tubigon, Bohol, Philippines
+- **Duration:** 320 hours completed
 
-## Confirmed experience
+## Field & Technical Work
 
-Completed an on-the-job training placement at an Internet service provider, with practical exposure to networking and computer systems.
+Completed 320 hours of on-the-job training with an Internet service provider, combining field work across service areas with practical networking and computer systems support:
 
-The profile information available for this document does not specify individual assignments, equipment, network technologies, customer-facing duties, or project outcomes. No such responsibilities are inferred here.
+- **Client Troubleshooting & Field Visits:** Traveled across different areas to diagnose and resolve client internet and connectivity issues.
+- **New Customer Installations:** Assisted with setting up internet connections and customer premise equipment for new subscribers.
+- **Cabling & Infrastructure:** Worked with fiber-optic, multi-core, and UTP cabling alongside general network and computer system checks.
 
-## Evidence status
-
-### Established facts
-
-- OJT placement at DJTAL Network and Data Solution.
-- Location in Tubigon, Bohol, Philippines.
-- 320 hours completed.
-- Practical exposure to networking and computer systems in an ISP context.
-
-### Not represented as evidence in this document
-
-No training log, completion certificate, supervisor reference, detailed task list, or technical deliverable is included or claimed here.
-
-Any such material should only be described or shared after it has been verified and permission to publish has been confirmed. Redact personal information, customer records, credentials, network identifiers, and internal topology from any approved public artifact.
-
-## Resume summary
-
-Completed 320 hours of on-the-job training at an Internet service provider, gaining practical exposure to networking and computer systems.
-
-## Related documentation
+## Related Documentation
 
 - [Resume](RESUME.md)
 - [Portfolio](../README.md)

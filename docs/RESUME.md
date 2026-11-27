@@ -5,7 +5,7 @@ Clarin, Bohol, Philippines · [Email](mailto:kevinreylapiz@gmail.com) · [Portfo
 
 ## Summary
 
-4th-year Bachelor of Science in Computer Science student experienced in developing Android applications, full-stack web applications, and structured AI-assisted engineering workflows. Skilled in Kotlin, Jetpack Compose, TensorFlow Lite, React, TypeScript, Vite, Supabase, PostgreSQL, Vitest, Playwright, and GitHub Actions, with leadership experience in Naval ROTC and 320 hours of ISP OJT.
+4th-year Bachelor of Science in Computer Science student experienced in building offline-capable Android applications, full-stack web applications, and structured AI-assisted engineering workflows. Skilled in Kotlin, Jetpack Compose, TensorFlow Lite, React, TypeScript, Vite, Supabase, PostgreSQL, Vitest, Playwright, and GitHub Actions, backed by Naval ROTC battalion leadership and 320 hours of ISP field networking OJT.
 
 ## Projects
 
@@ -24,13 +24,14 @@ Clarin, Bohol, Philippines · [Email](mailto:kevinreylapiz@gmail.com) · [Portfo
 - **Stack:** Python Standard Library, `unittest` ([Repository](https://github.com/kevinreylapiz-max/SafeFileOrganizer)).
 
 ### SYNAPSE — Human-Directed AI Engineering Workflow
-- Developing a structured engineering workflow and tooling for directing AI collaborators using isolated project memory spaces ("cells"), explicit acceptance criteria, and deterministic verification checks.
+- Developing a structured engineering workflow and tooling for directing AI collaborators with isolated project memory spaces ("cells"), explicit acceptance criteria, change/decision tracking, and deterministic verification checks.
 
 ## Experience
 
-**On-the-Job Trainee — DJTAL Network and Data Solution**  
+**On-the-Job Trainee (ISP & Field Networking) — DJTAL Network and Data Solution**  
 Tubigon, Bohol, Philippines · **320 Hours Completed**
-- Completed 320 hours of on-the-job training at an Internet service provider with practical exposure to network operations and computer systems support.
+- Traveled across service areas to troubleshoot client connectivity issues and set up internet connections for new customers.
+- Worked with fiber, multi-core, and UTP cabling alongside network and computer systems support.
 
 ## Leadership & Military Training
 
