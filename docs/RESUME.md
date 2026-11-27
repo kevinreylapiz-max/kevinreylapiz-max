@@ -1,4 +1,4 @@
-﻿# Kevin Rey Lapiz
+# Kevin Rey Lapiz
 
 **BS Computer Science Student · Android, Full-Stack Web & Human-Directed AI Engineering**  
 Clarin, Bohol, Philippines · [Email](mailto:kevinreylapiz@gmail.com) · [Portfolio](https://kevinreylapiz.rf.gd) · [GitHub](https://github.com/kevinreylapiz-max)
